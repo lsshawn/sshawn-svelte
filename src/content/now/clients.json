@@ -1,0 +1,46 @@
+{
+  "clients": [
+    {
+      "title": "",
+      "logo": "https://eurekaa.io/logo.png",
+      "url": "https://eurekaa.io",
+      "body": "Tools for online course creators to find opportunities and validate course ideas. Published on AppSumo with 5 star rating.",
+      "image": "https://res.cloudinary.com/cupbots/image/upload/v1642946969/Screen_Shot_2022-01-23_at_22.09.04.png"
+    },
+    {
+      "title": "",
+      "logo": "https://impactology.netlify.app/logo.png",
+      "url": "https://impactology.netlify.app",
+      "body": "An app for HR",
+      "image": "https://res.cloudinary.com/cupbots/image/upload/v1642946969/Screen_Shot_2022-01-23_at_22.09.04.png"
+    },
+    {
+      "title": "",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5acadc76f93fd493b449fe27/1523261073453-VOKBTYIARXD9ARB5OBEG/3rd+Idea_v1.png?format=750w",
+      "url": "https://app.third-idea.com",
+      "body": "A chatbot-powered human resource consulting app that help companies smake better people decisions. Over 10 years of consultancy experience is condensed into this chatbot to provide recommendations in solving HR issues. This app uses natural language processing to predict the intention of user messages.",
+      "image": "https://res.cloudinary.com/cupbots/image/upload/v1611917080/third-idea-app-screenshot.png"
+    },
+    {
+      "title": "",
+      "logo": "https://images.squarespace-cdn.com/content/v1/5acadc76f93fd493b449fe27/1523261073453-VOKBTYIARXD9ARB5OBEG/3rd+Idea_v1.png?format=750w",
+      "url": "https://app.third-idea.com",
+      "body": "A big data software to help Southeast Asia e-commerce sellers grow. Currently focusing on Shopee marketplace, clients use Shoperware to:\n- Find niche product opportunities with high demand and low competition\n- Track competitor prices and listing to protect store sales",
+      "image": "https://res.cloudinary.com/cupbots/image/upload/v1611918059/shoperware-screenshot.png"
+    },
+    {
+      "title": "Singapore Coffee App",
+      "logo": "",
+      "url": "https://coffee.sshawn.com",
+      "body": "How can we make ordering local coffee more peaceful? In this prototype, I made an animated cup to show what you'll expect when ordering. There's a button to translate the local jargons into English to make this angmoh-friendly.",
+      "image": "https://res.cloudinary.com/cupbots/image/upload/v1611927857/minimalist-coffee-app.png"
+    },
+    {
+      "title": "Recruitrack",
+      "logo": "",
+      "url": "https://pedantic-mcnulty-692c57.netlify.app/",
+      "body": "For recruitment firms, managing applicants from multiple sources is hard. Then there's the follow-up interviews. And interviewer notes at each stages. What if we want to reach out to old candidates for potential new positions? Recruitrack is a prototype app to replace complicated excel files used at recruitment firms. ",
+      "image": "https://res.cloudinary.com/cupbots/image/upload/v1611929178/recruitrack-demo.png"
+    }
+  ]
+}
