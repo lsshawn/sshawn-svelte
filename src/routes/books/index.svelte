@@ -1,30 +1,27 @@
-<script context="module">
-    // fetch data. Can run on server or client side.
-    export async function load({ fetch }) {
+<script>
+    import { count } from '../stores.js';
+    import { onMount } from 'svelte';
+    let data = [];
+    let newData = [];
+
+    async function load() {
+        console.log(`TCL:  -> load`);
         const res = await fetch('/books.json'); // context.fetch()
         const { books } = await res.json();
-
-        if (res.ok) {
-            return {
-                props: {
-                    books
-                }
-            };
-        }
-
-        return {
-            status: res.status,
-            error: new Error('Could not fetch guides')
-        };
+        newData = books;
     }
-</script>
 
-<script>
-    export let books;
+    onMount(() => {
+        load();
+    });
+
+    $: books = [...data, ...newData];
 </script>
 
 <h1 class="text-center">Book Notes</h1>
 
+<div>{$count}</div>
+<button on:click={() => ($count += 1)}>Add page</button>
 {#each books as book}
     <div>{book.slug}</div>
 {/each}
