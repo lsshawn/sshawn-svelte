@@ -1,5 +1,5 @@
 <script>
-    import { count } from '../stores.js';
+    import { page, getBooks, books } from '../stores.ts';
     import { onMount } from 'svelte';
     let data = [];
     let newData = [];
@@ -12,16 +12,14 @@
     }
 
     onMount(() => {
-        load();
+        if ($books.length === 0) getBooks();
     });
-
-    $: books = [...data, ...newData];
 </script>
 
 <h1 class="text-center">Book Notes</h1>
 
-<div>{$count}</div>
-<button on:click={() => ($count += 1)}>Add page</button>
-{#each books as book}
+<div>{$page}</div>
+<button on:click={() => getBooks($page + 1)}>Add page</button>
+{#each $books as book}
     <div>{book.slug}</div>
 {/each}
