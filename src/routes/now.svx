@@ -1,31 +1,21 @@
 <script>
-    import SEO from '$lib/components/SEO/index.svelte';
-    import ProjectList from '$lib/components/ProjectList.svelte'
+    import SEO from '$lib/components/seo.svelte';
+    import ProjectList from '$lib/components/ProjectList.svelte';
     const seoProps = { title: 'Now' };
 </script>
 
 <SEO {...seoProps} />
 
 <div class="content-container prose">
+    <h1 class="text-center">Now</h1>
 
-<h1 class="text-center">Now</h1>
+    Working remotely in Malaysia. Runs a full-stack development agency focusing
+    on start-ups. Loves learning to build new sutff. Bullish on Web3. Looking to
+    contribute to any exciting projects. Looking to start something?
 
-Working remotely in Malaysia. Runs a full-stack development agency focusing on start-ups.
+    <h1 class="text-center">Projects</h1>
 
-Loves learning to build new sutff.
+    <ProjectList />
 
-Bullish on Web3. Looking to contribute to any exciting projects.
-
-Looking to start something?
-
-<h1 class="text-center">Projects</h1>
-
-<ProjectList/>
-
-Let me execute for you.
-
-[Let's talk.](/contact)
-
-*Last Updated: Apr 20 2022*
-
+    Let me execute for you. [Let's talk.](/contact) *Last Updated: Apr 20 2022*
 </div>
