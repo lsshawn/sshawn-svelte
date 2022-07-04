@@ -3,6 +3,11 @@ module.exports = {
   content: ['./src/**/*.{js,ts,svelte}'],
   theme: {
     extend: {
+      fontFamily: {
+        'sans': ['Poppins', 'Arial', 'sans-serif'],
+        'serif': ['Poppins', 'Arial', 'sans-serif'],
+        'mono': ['Poppins', 'Arial', 'sans-serif']
+      }
     },
   },
   plugins: [
