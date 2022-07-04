@@ -9,28 +9,28 @@
 </script>
 
 <div class="tab-nav-container visible md:invisible">
-    <a href="/">
+    <a href="/" sveltekit:prefetch>
         <div class="tab" class:active={basePath === ''}>
             <Home />
             <p>Home</p>
         </div>
     </a>
 
-    <a href="/now">
+    <a href="/now" sveltekit:prefetch>
         <div class="tab" class:active={basePath === 'now'}>
             <Now />
             <p>Now</p>
         </div>
     </a>
 
-    <a href="/books">
+    <a href="/books" sveltekit:prefetch>
         <div class="tab" class:active={basePath === 'books'}>
             <Book />
             <p>Books</p>
         </div>
     </a>
 
-    <a href="/about">
+    <a href="/about" sveltekit:prefetch>
         <div class="tab" class:active={basePath === 'about'}>
             <About />
             <p>About</p>

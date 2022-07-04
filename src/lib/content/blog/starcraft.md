@@ -2,7 +2,7 @@
 title: 'Starcraft: we programmed a world only to be beaten by programs'
 date: '2019-11-01'
 summary: 'Put 1000 people to battle Starcraft. Only 2 will win.'
-featuredImage: 'https://media0.giphy.com/media/l0HlG4eSyWiwztUm4/giphy.gif?cid=ecf05e4796txgu01rj322d2z487w0kouj2mb2t02htai9snk&rid=giphy.gif&ct=g'
+featuredImage: 'https://res.cloudinary.com/cupbots/image/upload/w_1200,ar_16:9,c_fill,g_auto,e_sharpen/v1656941676/game-console.jpg'
 imageCredit: 'Giphy'
 ---
 

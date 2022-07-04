@@ -35,6 +35,7 @@
                 <li>
                     <a
                         href={tab.route}
+                        sveltekit:prefetch
                         class:active={basePath === tab.route.replace('/', '')}
                         class="font-bold text-xl w-48 justify-center
                         ">{tab.title}</a

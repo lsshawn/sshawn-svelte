@@ -24,7 +24,11 @@
     {#each books as book}
         <div>
             {#if book}
-                <a href={`/books/${book.slug}`} class="no-underline">
+                <a
+                    href={`/books/${book.slug}`}
+                    class="no-underline"
+                    sveltekit:prefetch
+                >
                     <div
                         class="card card-side bg-base-100 shadow-xl mb-12
 hover:bg-base-200 transition-all duration-200 hover:-translate-y-1

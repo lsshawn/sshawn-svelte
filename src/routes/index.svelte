@@ -24,7 +24,11 @@
     {#each posts as post}
         <div class="card">
             <div class="card-body">
-                <a href={`/blog/${post.slug}`} class="no-underline">
+                <a
+                    href={`/blog/${post.slug}`}
+                    class="no-underline"
+                    sveltekit:prefetch
+                >
                     <h1 class="card-title">{post.title}</h1>
                 </a>
                 <div class="text-gray-500 text-xs">{prettyDate(post.date)}</div>
@@ -53,7 +57,7 @@
                 </div>
 
                 <div class="card-actions justify-start">
-                    <a href={`/blog/${post.slug}`}>
+                    <a href={`/blog/${post.slug}`} sveltekit:prefetch>
                         <button class="btn btn-primary"> Read more </button>
                     </a>
                 </div>

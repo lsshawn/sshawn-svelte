@@ -4,7 +4,7 @@ subtitle: A minimalist coffee ordering app
 date: '2018-07-30'
 category: 'One day build'
 summary: I created this app to take coffee orders on my last day at work. What's Siu Dai? What's O and C? I thought it'll be a great idea for foreigners to order coffee the local way too.
-featuredImage: https://res.cloudinary.com/cupbots/image/upload/v1532872044/coffee-app-cover.gif
+featuredImage: https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608/v1532872044/coffee-app-cover.webm
 veadMore: true
 ---
 
@@ -28,7 +28,7 @@ Yet, it was music to my ears.
 
 Sit in front of a coffee stall and watch people ordering. Any sign generation gap disappear at that moment.
 
-![App main page](https://res.cloudinary.com/cupbots/image/upload/v1532871634/coffee-app-main.gif)
+![App main page](https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608/v1532871634/coffee-app-main.webm)
 
 ## All the possible combinations
 
