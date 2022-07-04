@@ -38,7 +38,7 @@
     </a>
 </div>
 
-<style>
+<style lang="scss">
     .tab-nav-container {
         display: flex;
         padding: 10px;
@@ -52,6 +52,7 @@
         box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2),
             0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12);
     }
+
     .tab {
         border-radius: 50px;
         cursor: pointer;
@@ -63,18 +64,21 @@
         transition: background 0.4s linear;
         height: 40px;
         min-width: 20vw;
+
+        p {
+            font-weight: bold;
+            overflow: hidden;
+            max-width: 0;
+        }
     }
-    .tab p {
-        font-weight: bold;
-        overflow: hidden;
-        max-width: 0;
-    }
-    .tab.active p {
-        max-width: 100px;
-        transition: max-width 0.4s linear;
-    }
+
     .tab.active {
         background-color: #f9a825;
         color: #2e2e2e;
+
+        p {
+            max-width: 100px;
+            transition: max-width 0.4s linear;
+        }
     }
 </style>

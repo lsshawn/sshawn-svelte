@@ -2,7 +2,6 @@
     // @ts-ignore
     export const load = async ({ fetch, params }) => {
         const id = params.id;
-        console.log('id: ', id);
         const res = await fetch(`/books/${id}.json`);
         const { book } = await res.json();
         return {

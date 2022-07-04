@@ -1,10 +1,9 @@
 //@ts-ignore
 export async function get({ url }) {
   const path = url.pathname
-  const slug = path.substr(path.lastIndexOf('/') + 1).replace('.json', '.md')
-  console.log(slug)
+  const slug = path.substr(path.lastIndexOf('/') + 1).replace('.json', '')
 
-  const res = await import(`../../lib/content/blog/${slug}`)
+  const res = await import(`../../lib/content/blog/${slug}.md`)
 
   const post = {
     ...res.metadata,
