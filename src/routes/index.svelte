@@ -36,6 +36,7 @@
                         <img
                             src={post.featuredImage}
                             class="max-h-[300px] object-contain mb-0"
+                            alt="post.imageCredit"
                         />
                     </a>
 

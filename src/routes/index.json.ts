@@ -5,7 +5,7 @@ export async function get({ url }) {
   const page = parseInt(url.searchParams.get('page') ?? 1)
 
   const posts = await Object.entries(
-    import.meta.globEager('../content/blog/*.md')
+    import.meta.globEager('$lib/content/blog/*.md')
   )
     .map(([path, post]) => {
       const slug = path.substr(path.lastIndexOf('/') + 1).replace('.md', '').trim()
