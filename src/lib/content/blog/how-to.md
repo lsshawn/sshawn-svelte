@@ -1,7 +1,7 @@
 ---
 title: "Life principle of finding 'how-tos' online"
 date: '2019-10-26'
-featuredImage: 'https://i.imgur.com/JAhjVAb.jpg'
+featuredImage: 'https://res.cloudinary.com/cupbots/image/upload/h_600,f_auto/v1656945275/drawdelow_dig.jpg'
 imageCredit: '@drawdelow'
 imageCreditURL: 'https://www.instagram.com/p/B4LwmaIhB4B/'
 

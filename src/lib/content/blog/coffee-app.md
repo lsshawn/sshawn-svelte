@@ -4,7 +4,7 @@ subtitle: A minimalist coffee ordering app
 date: '2018-07-30'
 category: 'One day build'
 summary: I created this app to take coffee orders on my last day at work. What's Siu Dai? What's O and C? I thought it'll be a great idea for foreigners to order coffee the local way too.
-featuredImage: https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608/v1532872044/coffee-app-cover.webm
+featuredImage: https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608,f_auto/v1532872044/coffee-app-cover.webm
 veadMore: true
 ---
 
@@ -28,7 +28,7 @@ Yet, it was music to my ears.
 
 Sit in front of a coffee stall and watch people ordering. Any sign generation gap disappear at that moment.
 
-![App main page](https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608/v1532871634/coffee-app-main.webm)
+![App main page](https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608,f_auto/v1532871634/coffee-app-main.webm)
 
 ## All the possible combinations
 
@@ -40,11 +40,11 @@ The animation and color changes are intuitive to show what each button does.
 
 To help foreigners, I've created a button at the bottom which translates all the buttons from Singlish to English.
 
-![Singlish to English](https://res.cloudinary.com/cupbots/image/upload/v1532871634/coffee-app-english.png)
+![Singlish to English](https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608,f_auto/v1532871634/coffee-app-english.png)
 
 ## Where do I store your order? AirTable
 
-![Place your order](https://res.cloudinary.com/cupbots/image/upload/v1532871634/coffee-app-order.gif)
+![Place your order](https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608,f_auto/v1532871634/coffee-app-order.gif)
 
 Through my experience of prototyping, AirTable is a joy to use as a database. It's free for up to 1,000 rows and **it looks like Excel**.
 
@@ -56,7 +56,7 @@ In this coffee app, I've created a 'confirmation screen' that asks for your name
 
 `https://api.airtable.com/v0/app_id/sheet_name`
 
-![AirTable database for coffee app](https://res.cloudinary.com/cupbots/image/upload/v1532871634/airtable-coffee.png)
+![AirTable database for coffee app](https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608,f_auto/v1532871634/airtable-coffee.png)
 
 ## What would I improve on
 

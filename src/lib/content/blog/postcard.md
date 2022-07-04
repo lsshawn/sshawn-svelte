@@ -2,7 +2,7 @@
 title: 'Postcard obsession'
 summary: 'Can I keep in touch with you with a postcard?'
 date: '2019-10-31'
-featuredImage: 'https://images.unsplash.com/photo-1479642770516-f2df0a071c6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=734&q=80'
+featuredImage: 'https://res.cloudinary.com/cupbots/image/upload/w_600,f_auto/v1656945449/postcard.jpg'
 imageCredit: 'Elena Ferrer'
 imageCreditURL: 'https://unsplash.com/photos/AigO5TWibjk'
 ---

@@ -2,7 +2,7 @@
 title: 'Why are toilet bowls white'
 date: '2019-11-05'
 subtitle: 'and why are toilet plungers black?'
-featuredImage: 'https://live.staticflickr.com/215/464747090_3610b3922b_w.jpg'
+featuredImage: 'https://res.cloudinary.com/cupbots/image/upload/w_600,f_auto/v1656945586/plumber.jpg'
 imageCredit: 'caseywest'
 imageCreditURL: 'https://www.flickr.com/photos/caseywest/'
 ---

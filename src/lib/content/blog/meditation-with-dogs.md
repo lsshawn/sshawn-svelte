@@ -1,7 +1,7 @@
 ---
 title: 'Meditation with dogs'
 date: '2019-10-15'
-featuredImage: 'https://i.imgur.com/0JVl7wi.jpg'
+featuredImage: 'https://res.cloudinary.com/cupbots/image/upload/h_600,f_auto/v1656945185/0JVl7wi.jpg'
 imageCredit: '@maci_grai'
 imageCreditURL: 'https://www.instagram.com/p/B4LwmaIhB4B/'
 ---
