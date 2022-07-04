@@ -3,7 +3,7 @@ title: 'The first thing to do when learning Japanese...'
 date: '2019-10-22'
 category:
   - language
-featuredImage: 'https://images.unsplash.com/photo-1540891883377-7be7186937c6?ixlib=rb-1.2.1&auto=format&fit=crop&w=930&q=80'
+featuredImage: 'https://res.cloudinary.com/cupbots/image/upload/w_600,f_auto/v1656946472/koi-fish.jpg'
 ---
 
 ...is to install a Japanese keyboard in your phone or laptop.

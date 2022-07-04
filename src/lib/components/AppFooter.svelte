@@ -31,7 +31,11 @@
 <footer class="footer footer-center p-2 text-gray-400 mb-48">
     <div class="flex flex-col w-full">
         <div class="divider">
-            <img src="/images/logo.png" class="w-12" alt="SShawn" />
+            <img
+                src="https://res.cloudinary.com/cupbots/image/upload/w_70,f_auto/v1656947127/sshawn-logo.png"
+                class="w-12 aspect-square"
+                alt="SShawn"
+            />
         </div>
     </div>
 

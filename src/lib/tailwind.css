@@ -5,6 +5,7 @@
 /* poppins-regular - latin */
 @font-face {
   font-family: 'Poppins';
+  font-display: swap;
   font-style: normal;
   font-weight: 400;
   src: local(''),
@@ -15,11 +16,20 @@
 /* poppins-700 - latin */
 @font-face {
   font-family: 'Poppins';
+  font-display: swap;
   font-style: normal;
   font-weight: 700;
   src: local(''),
        url('../fonts/poppins-v20-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/poppins-v20-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/** To fix Image elements do not have explicit width and height **/
+img {
+  max-width: 100%;
+  height: auto;
+    aspect-ratio: 16/9;
+
 }
 
 @layer components {
