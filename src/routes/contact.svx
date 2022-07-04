@@ -6,8 +6,13 @@
 <SEO {...seoProps} />
 
 <div class="content-container prose">
-    # Contact Me Email me at l@sshawn.com. Or chat me up at:
-    [Whatsapp](https://wa.me/601163388589) [Telegram](https://tttttt.me/lsshawn)
-    [Twitter](https://twitter.com/me_sshawn) I love hearing from you. Many of my
-    adventures were started by a simple hello.
+    # Contact Me
+
+    Email me at l@sshawn.com. Or chat me up at:
+
+    [Whatsapp](https://wa.me/601163388589)
+    [Telegram](https://tttttt.me/lsshawn)
+    [Twitter](https://twitter.com/me_sshawn)
+
+    I love hearing from you. Many of my adventures were started by a simple hello.
 </div>

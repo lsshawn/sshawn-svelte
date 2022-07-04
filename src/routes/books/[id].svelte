@@ -14,23 +14,14 @@
 <script>
     export let book;
     import { prettyDate } from '$lib/utils';
-    import ChevronLeft from '$lib/assets/icons/ChevronLeft.svelte';
+    import BackButton from '$lib/components/BackButton.svelte';
     import Seo from '$lib/components/seo.svelte';
     const seoProps = { title: `Book Summary: ${book.title}` };
-
-    function back() {
-        history.back();
-    }
 </script>
 
 <Seo {...seoProps} />
 <div class="content-container prose">
-    <button
-        class="mb-8 btn btn-circle btn-link text-gray-900 visible md:invisible"
-        on:click={back}
-    >
-        <ChevronLeft />
-    </button>
+    <BackButton />
     <div class="flex align-top justify-start items-start">
         <img
             src={book.featuredImage}

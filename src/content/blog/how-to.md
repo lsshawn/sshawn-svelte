@@ -1,8 +1,12 @@
 ---
 title: "Life principle of finding 'how-tos' online"
 date: '2019-10-26'
-featuredImage: 'https://images.unsplash.com/photo-1541870730196-cd1efcbf5649?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80'
+featuredImage: 'https://i.imgur.com/JAhjVAb.jpg'
+imageCredit: '@drawdelow'
+imageCreditURL: 'https://www.instagram.com/p/B4LwmaIhB4B/'
+
 summary: 'What glass kettles taught me about brewing tea.'
+
 ---
 
 I was searching for _how to brew pu-er tea_.

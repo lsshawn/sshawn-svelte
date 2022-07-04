@@ -1,5 +1,5 @@
 <script>
-    import { projects } from '$lib/content/now/projects.json';
+    import { projects } from '../../content/now/projects.json';
 </script>
 
 <div>

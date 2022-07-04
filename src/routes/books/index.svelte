@@ -24,38 +24,34 @@
     {#each books as book}
         <div>
             {#if book}
-                <div
-                    class="card card-side bg-base-100 shadow-xl mb-12
+                <a href={`/books/${book.slug}`} class="no-underline">
+                    <div
+                        class="card card-side bg-base-100 shadow-xl mb-12
 hover:bg-base-200 transition-all duration-200 hover:-translate-y-1
           "
-                >
-                    <a href={`/books/${book.slug}`}>
+                    >
                         <img
                             src={book.featuredImage}
                             alt={book.title}
                             class="max-w-[180px] max-h-44 md:max-h-96 my-0 mx-auto"
                         />
-                    </a>
-                    <div class="card-body">
-                        <a href={`/books/${book.slug}`} class="no-underline">
+                        <div class="card-body">
                             <h2 class="card-title my-0">
                                 {book.title}
                             </h2>
-                        </a>
-                        <h3 class="text-gray-400 mt-0">{book.author}</h3>
-                        <div>{prettyDate(book.date)}</div>
-                        <div>Rating: {book.rating} / 10</div>
-                        <div>{book.summary}</div>
+                            <h3 class="text-gray-400 mt-0">{book.author}</h3>
+                            <div>{prettyDate(book.date)}</div>
+                            <div>Rating: {book.rating} / 10</div>
+                            <div>{book.summary}</div>
 
-                        <div class="card-actions justify-start mt-12">
-                            <a href={`/books/${book.slug}`}>
+                            <div class="card-actions justify-start mt-12">
                                 <button class="btn btn-primary">
                                     Read summary
                                 </button>
-                            </a>
+                            </div>
                         </div>
                     </div>
-                </div>
+                </a>
             {/if}
         </div>
     {/each}

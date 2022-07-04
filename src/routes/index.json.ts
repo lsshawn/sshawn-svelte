@@ -4,12 +4,12 @@ export async function get({ url }) {
 
   const page = parseInt(url.searchParams.get('page') ?? 1)
 
-  const books = Object.entries(
-    import.meta.globEager('../../content/books/*.md')
+  const posts = await Object.entries(
+    import.meta.globEager('../content/blog/*.md')
   )
     .map(([path, post]) => {
       const slug = path.substr(path.lastIndexOf('/') + 1).replace('.md', '').trim()
-      return { slug, ...post.metadata }
+      return { slug, ...post.metadata, html: post.default.render()['html'] }
     })
     .sort((a, b) => (a.date < b.date ? 1 : -1))
     .filter(obj => obj && obj.title)
@@ -17,6 +17,6 @@ export async function get({ url }) {
 
   return {
     status: 200,
-    body: { books }
+    body: { posts }
   };
 }

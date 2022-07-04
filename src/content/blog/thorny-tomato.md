@@ -3,7 +3,7 @@ title: 'Tomato with thorns possible?'
 date: '2019-07-20'
 summary: "You can't see it doesn't mean it's not happening."
 featuredImage: 'https://images.unsplash.com/photo-1535231540604-72e8fbaf8cdb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80'
-imageCredit: 'Photo by Suzanne D. Williams'
+imageCredit: 'Suzanne D. Williams'
 imageCreditURL: 'https://unsplash.com/photos/VMKBFR6r_jg'
 ---
 

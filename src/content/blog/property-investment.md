@@ -1,7 +1,7 @@
 ---
 title: 'Buying a house for investment is a poor choice'
 featuredImage: 'https://images.unsplash.com/photo-1519373533972-d0fc32881b46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80'
-imageCredit: 'Photo by Thomas Ehling'
+imageCredit: 'Thomas Ehling'
 imageCreditURL: 'https://unsplash.com/photos/qhgJkFXCJIY'
 date: '2019-11-07'
 ---

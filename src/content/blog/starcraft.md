@@ -2,9 +2,8 @@
 title: 'Starcraft: we programmed a world only to be beaten by programs'
 date: '2019-11-01'
 summary: 'Put 1000 people to battle Starcraft. Only 2 will win.'
-featuredImage: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/97de9eb8-b33b-4881-8d94-64ff4c96351a/d2myyfl-f0362975-1706-433c-89ad-a36ef13559b4.jpg/v1/fill/w_900,h_454,q_75,strp/starcraft_terran_medic_by_vonschlippe_d2myyfl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDU0IiwicGF0aCI6IlwvZlwvOTdkZTllYjgtYjMzYi00ODgxLThkOTQtNjRmZjRjOTYzNTFhXC9kMm15eWZsLWYwMzYyOTc1LTE3MDYtNDMzYy04OWFkLWEzNmVmMTM1NTliNC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xdY9lxzyh0-6_utxnuxI-kR2OigxdVCR_IrJKazmUec'
-imageCredit: 'Painting by VonSchlippe'
-imageCreditURL: 'https://www.deviantart.com/vonschlippe/art/Starcraft-Terran-Medic-159514833'
+featuredImage: 'https://media0.giphy.com/media/l0HlG4eSyWiwztUm4/giphy.gif?cid=ecf05e4796txgu01rj322d2z487w0kouj2mb2t02htai9snk&rid=giphy.gif&ct=g'
+imageCredit: 'Giphy'
 ---
 
 Put 1000 people to battle Starcraft.
