@@ -8,7 +8,7 @@ featuredImage: https://static.wixstatic.com/media/559e4f_b0b5897223284fde85f2989
 summary: "All travel book should be written this way. Hilarios observations you can only get from people watching. No amount of Youtube can show you these. The book notes here are scrambles of facts. Read this if you've always wondered about penknife, cheese, chocolate and Rolex."
 bookURL: https://www.amazon.com/dp/B007L0H0SCtag=sshawn0c-20
 ---
-All travel book should be written this way. Hilarious observations you can only get from people watching. No amount of Youtube can show you these.
+All travel book should be written this way. Hilarios observations you can only get from people watching. No amount of Youtube can show you these.
 
 The book notes here are scrambles of facts. Read this if you've always wondered about penknife, cheese, chocolate and Rolex.
 

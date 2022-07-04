@@ -9,13 +9,21 @@
 <div class="content-container prose">
     <h1 class="text-center">Now</h1>
 
-    Working remotely in Malaysia. Runs a full-stack development agency focusing
-    on start-ups. Loves learning to build new sutff. Bullish on Web3. Looking to
-    contribute to any exciting projects. Looking to start something?
+    Working remotely in Malaysia.
+
+    Runs a full-stack development agency focusing on start-ups.
+
+    Loves learning to build new stuff. Bullish on Web3.
+
+    Looking to contribute to any exciting projects.
 
     <h1 class="text-center">Projects</h1>
 
     <ProjectList />
 
-    Let me execute for you. [Let's talk.](/contact) *Last Updated: Apr 20 2022*
+    Have an idea in mind? Let me execute for you.
+
+    [Let's talk.](/contact)
+
+    *Last Updated: 4 Jul 2022*
 </div>

@@ -4,6 +4,6 @@
 
 @layer components {
     .content-container {
-        @apply container mt-12 px-4 max-w-screen-md mx-auto;
+        @apply container my-12 px-4 max-w-screen-md mx-auto;
     }
 }
