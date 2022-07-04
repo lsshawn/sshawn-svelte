@@ -28,7 +28,7 @@ Yet, it was music to my ears.
 
 Sit in front of a coffee stall and watch people ordering. Any sign generation gap disappear at that moment.
 
-![App main page](https://res.cloudinary.com/cupbots/image/upload/c_scale,w_608,f_auto/v1532871634/coffee-app-main.webm)
+![App main page](https://res.cloudinary.com/cupbots/image/upload/w_600,f_auto/v1532871634/coffee-app-main.webm)
 
 ## All the possible combinations
 

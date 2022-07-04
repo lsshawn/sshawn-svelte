@@ -33,7 +33,7 @@
             SShawn
         </a>
     </div>
-    <div class="flex-none invisible md:visible">
+    <div class="flex-none invisible lg:visible">
         <ul class="menu menu-horizontal p-0">
             {#each tabs as tab}
                 <li>

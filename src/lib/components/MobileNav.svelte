@@ -8,7 +8,7 @@
     $: basePath = $page.url.pathname.split('/')[1];
 </script>
 
-<div class="tab-nav-container visible md:invisible">
+<div class="tab-nav-container visible lg:invisible">
     <a href="/" sveltekit:prefetch>
         <div class="tab" class:active={basePath === ''}>
             <Home />
