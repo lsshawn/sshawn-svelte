@@ -3,9 +3,11 @@ backend:
   branch: main
 
 local_backend: true
-
 media_folder: static/images
 public_folder: /images
+site_url: https://sshawn.com
+display_url: https://sshawn.com
+logo_url: https://res.cloudinary.com/cupbots/image/upload/w_100,f_auto/v1656947127/sshawn-logo.png
 
 collections:
   - name: 'books'
@@ -197,13 +199,57 @@ collections:
             required: false
           }
 
-  - label: 'About'
-    name: 'about'
+  - label: 'Pages'
+    name: 'pages'
     files:
       - label: 'About'
         name: 'about'
         format: frontmatter
         file: 'src/lib/content/about.md'
+        fields:
+          - {
+              label: 'Title',
+              name: 'title',
+              widget: string
+            }
+          - {
+              label: 'Body',
+              name: 'body',
+              widget: markdown,
+            }
+
+      - label: 'Projects'
+        name: 'projects'
+        file: 'src/lib/content/now/projects.json'
+        fields:
+          - label: 'Projects'
+            name: 'projects'
+            widget: 'list'
+            fields:
+              - {
+                  label: 'Title',
+                  name: 'title',
+                  widget: string,
+                  required: false
+                }
+              - {
+                  label: 'Logo',
+                  name: 'logo',
+                  widget: image,
+                  required: false
+                }
+              - {
+                  label: 'Body',
+                  name: 'text',
+                  widget: markdown,
+                  required: false
+                }
+              - {
+                  label: 'Image',
+                  name: 'image',
+                  widget: image,
+                  required: false
+                }
 
   - label: 'Category'
     name: 'categories'
@@ -213,68 +259,4 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: string }
       - { label: 'Description', name: 'description', widget: string, required: false }
-
-  - label: 'Projects'
-    name: 'projects'
-    file: 'src/lib/content/now/projects.json'
-    fields:
-      - label: 'Body'
-        name: 'body'
-        widget: markdown
-      - label: 'Projects'
-        name: 'projects'
-        widget: 'list'
-        fields:
-          - {
-              label: 'Title',
-              name: 'title',
-              widget: string,
-              required: false
-            }
-          - {
-              label: 'Logo',
-              name: 'logo',
-              widget: image,
-              required: false
-            }
-          - {
-              label: 'Body',
-              name: 'text',
-              widget: markdown,
-              required: false
-            }
-          - {
-              label: 'Image',
-              name: 'image',
-              widget: image,
-              required: false
-            }
-      - label: 'Clients'
-        name: 'clients'
-        widget: 'list'
-        fields:
-          - {
-              label: 'Title',
-              name: 'title',
-              widget: string,
-              required: false
-            }
-          - {
-              label: 'Logo',
-              name: 'logo',
-              widget: image,
-              required: false
-            }
-          - {
-              label: 'URL',
-              name: 'url',
-              widget: string,
-              required: false
-            }
-          - {
-              label: 'Body',
-              name: 'body',
-              widget: string,
-              required: false
-            }
 
