@@ -8,7 +8,7 @@
     $: basePath = $page.url.pathname.split('/')[1];
 </script>
 
-<div class="w-full">
+<div class="w-full lg:hidden">
     <section
         id="bottom-navigation"
         class="block fixed inset-x-0 bottom-0 z-10 bg-white shadow p-2"
