@@ -49,7 +49,9 @@ hover:bg-base-200 transition-all duration-200 hover:-translate-y-1
                             <div>{book.summary}</div>
 
                             <div class="card-actions justify-start mt-12">
-                                <button class="btn btn-primary">
+                                <button
+                                    class="btn btn-primary text-black font-medium"
+                                >
                                     Read summary
                                 </button>
                             </div>

@@ -8,21 +8,16 @@
     $: basePath = $page.url.pathname.split('/')[1];
 </script>
 
-<!--
-<div class="tab-nav-container visible lg:hidden">
-</div>
-  -->
-
-<div class="w-full h-screen">
+<div class="w-full">
     <section
         id="bottom-navigation"
-        class="block fixed inset-x-0 bottom-0 z-10 bg-white shadow"
+        class="block fixed inset-x-0 bottom-0 z-10 bg-white shadow p-2"
     >
         <div id="tabs" class="flex justify-between">
             <a
                 href="/"
                 sveltekit:prefetch
-                class="w-full hover:text-primary focus:text-primary inline-block justify-center text-center"
+                class="w-full hover:text-primary focus:text-primary inline-block justify-center text-center rounded-2xl"
                 class:active={basePath === ''}
             >
                 <div class="tab">
@@ -34,7 +29,7 @@
             <a
                 href="/now"
                 sveltekit:prefetch
-                class="w-full hover:text-primary focus:text-primary inline-block justify-center text-center"
+                class="w-full hover:text-primary focus:text-primary inline-block justify-center text-center rounded-2xl"
                 class:active={basePath === 'now'}
             >
                 <div class="tab">
@@ -46,7 +41,7 @@
             <a
                 href="/books"
                 sveltekit:prefetch
-                class="w-full hover:text-primary focus:text-primary inline-block justify-center text-center"
+                class="w-full hover:text-primary focus:text-primary inline-block justify-center text-center rounded-2xl"
                 class:active={basePath === 'books'}
             >
                 <div class="tab">
@@ -58,7 +53,7 @@
             <a
                 href="/about"
                 sveltekit:prefetch
-                class="w-full hover:text-primary focus:text-primary inline-block justify-center text-center"
+                class="w-full hover:text-primary focus:text-primary inline-block justify-center text-center rounded-2xl"
                 class:active={basePath === 'about'}
             >
                 <div class="tab">
