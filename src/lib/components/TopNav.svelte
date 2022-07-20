@@ -22,7 +22,7 @@
     ];
 </script>
 
-<div class="navbar bg-base-100">
+<nav class="navbar bg-base-100">
     <div class="flex-1">
         <a class="btn btn-ghost normal-case text-xl" href="/">
             <img
@@ -48,4 +48,4 @@
             {/each}
         </ul>
     </div>
-</div>
+</nav>
