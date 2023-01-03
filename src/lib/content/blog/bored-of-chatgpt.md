@@ -17,6 +17,6 @@ When I can't find an answer in Google search, I won't say "Google is useless".
 
 Instead, I try different search terms until I find an answer.
 
-I bet in the early days, Google have gotten lots of bashing when people were searching "Does Nick Carter loves me?"
+I bet in the early days, Google have gotten lots of bashing when people were searching "Does AJ loves me?"
 
 It just takes time for everyone to get bored of asking silly questions to ChatGPT.
