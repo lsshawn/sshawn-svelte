@@ -1,5 +1,5 @@
 ---
-title: 'ChatGPT is useless'
+title: "Wait till you're bored of ChatGPT"
 date: '2023-01-03'
 ---
 
