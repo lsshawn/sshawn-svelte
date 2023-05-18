@@ -4,7 +4,7 @@ date: '2018-12-30'
 rating: 7
 author: 'Simon Sinek'
 tags:
-  - book-summary
+  - book summary
   - lead
 image: https://images-na.ssl-images-amazon.com/images/I/51xrHMLGJPL._SX330_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/B002Q6XUE4?tag=sshawn0c-20

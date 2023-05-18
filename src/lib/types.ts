@@ -3,13 +3,14 @@ export type Categories = 'sveltekit' | 'svelte';
 export type Meta = {
 	title: string;
 	date: string;
-	description?: string;
+	summary?: string;
 	image?: string;
 	imageCredit?: string;
 	imageCreditUrl?: string;
 	tags?: string[];
 	categories?: Categories[];
-	hidden?: boolean;
+	isPrivate?: boolean; // completely unviewable in web
+	unlisted?: boolean; // hidden from listing. Viewable directly.
 	author?: string;
 	rating?: number;
 	bookUrl?: string;

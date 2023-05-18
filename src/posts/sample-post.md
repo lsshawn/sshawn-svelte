@@ -3,7 +3,7 @@ title: Sample post
 date: 2023-04-16
 tags:
   - svelte
-hidden: true
+unlisted: true
 ---
 
 <script>

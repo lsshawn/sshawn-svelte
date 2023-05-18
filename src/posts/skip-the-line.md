@@ -3,9 +3,9 @@ title: 'Skip the line'
 date: '2021-03-26'
 rating: 10
 tags:
-  - book-summary
+  - book summary
   - james-altucher
-  - how-to-live
+  - how to live
 author: 'James Altucher'
 image: https://images-na.ssl-images-amazon.com/images/I/41JRKIKqumL._SX331_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/0062998927?tag=sshawn0c-20

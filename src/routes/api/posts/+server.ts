@@ -18,7 +18,7 @@ async function getPosts() {
 				content: file['default'].render()['html'],
 				// content: file['default'],
 			} satisfies Post;
-			!post.meta.hidden && posts.push(post);
+			if (!post.meta.unlisted && !post.meta.isPrivate) posts.push(post);
 		}
 	}
 

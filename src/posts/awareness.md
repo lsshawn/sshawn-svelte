@@ -3,7 +3,7 @@ title: 'Awareness'
 date: 2020-01-03
 rating: 8
 tags:
-  - how-to-live
+  - how to live
 author: 'Anthony de Mello'
 image: https://www.momadvice.com/blog/wp-content/uploads/2015/06/Awareness.jpg
 bookURL: https://www.amazon.com/dp/0385249373?tag=sshawn0c-20

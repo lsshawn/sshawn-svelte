@@ -4,7 +4,7 @@ date: '2019-02-11'
 rating: 5
 author: 'June Casagrande'
 tags:
-  - book-summary
+  - book summary
   - writing
 image: https://images-na.ssl-images-amazon.com/images/I/41F0OF38ELL._SX355_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/158008740X?tag=sshawn0c-20

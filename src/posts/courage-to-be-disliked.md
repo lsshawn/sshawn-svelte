@@ -4,7 +4,7 @@ date: '2020-05-22'
 rating: 9
 author: 'Ichiro Kishimi'
 tags:
-  - book-summary
+  - book summary
 image: https://kbimages1-a.akamaihd.net/0f12b84f-69a1-49f8-95e9-9f8ac230e738/1200/1200/False/the-courage-to-be-disliked.jpg
 bookURL: https://www.amazon.com/dp/1501197274?tag=sshawn0c-20
 ---

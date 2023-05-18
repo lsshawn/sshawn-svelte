@@ -3,7 +3,7 @@ title: 'Purple Cow: Transform Your Business by Being Remarkable'
 date: '2019-08-08'
 rating: 9
 tags:
-  - book-summary
+  - book summary
   - seth-godin
   - business
 author: 'Seth Godin'

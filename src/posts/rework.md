@@ -4,7 +4,7 @@ date: '2019-12-21'
 rating: 10
 author: 'Jason Fried, David Heinemeier Hansson'
 tags:
-  - book-summary
+  - book summary
   - business
   - basecamp
 image: https://s3-us-west-2.amazonaws.com/tabs.web.media/a/s/asac/asac-square-1536.jpg

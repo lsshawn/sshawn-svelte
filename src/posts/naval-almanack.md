@@ -3,9 +3,9 @@ title: 'The Almanack of Naval Ravikant: A Guide to Wealth and Happiness'
 date: '2021-04-21'
 rating: 10
 tags:
-  - book-summary
+  - book summary
   - naval
-  - how-to-live
+  - how to live
 author: 'Eric Jorgenson'
 image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598011736l/54898389._SY475_.jpg
 bookURL: https://www.navalmanack.com/

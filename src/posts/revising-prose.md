@@ -4,7 +4,7 @@ date: '2018-08-29'
 rating: 7
 author: 'Richard A. Lanham'
 tags:
-  - book-summary
+  - book summary
   - writing
 image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387668721l/1552699.jpg
 bookURL: https://www.amazon.com/dp/0321441699?tag=sshawn0c-20

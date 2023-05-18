@@ -3,8 +3,8 @@ title: 'How to live - 27 conflicting answers and one weird conclusion'
 date: '2022-08-03'
 rating: 10
 tags:
-  - book-summary
-  - derek-sivers
+  - book summary
+  - derek sivers
 author: 'Derek Sivers'
 image: https://sive.rs/images/DerekSivers-cover-HowToLive-400x640.jpg
 summary: This is my bible.

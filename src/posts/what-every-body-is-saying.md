@@ -3,7 +3,7 @@ title: "What Every Body Is Saying: An Ex-FBI Agent's Guide to Speed-Reading Peop
 date: '2020-08-09'
 rating: 8
 tags:
-  - book-summary
+  - book summary
   - communication
 author: 'Joe Navarro, Marvin Karlins'
 image: https://images-na.ssl-images-amazon.com/images/I/61u0-rLEtDL.jpg

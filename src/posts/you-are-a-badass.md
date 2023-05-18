@@ -4,8 +4,8 @@ date: '2020-01-19'
 author: 'Jen Sincero'
 rating: 7
 tags:
-  - book-summary
-  - how-to-live
+  - book summary
+  - how to live
 image: https://jensincero.com/images/yaabed-large.jpg
 bookURL: https://www.amazon.com/dp/0525561641?tag=sshawn0c-20
 ---

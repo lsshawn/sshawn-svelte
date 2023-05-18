@@ -3,7 +3,7 @@ title: 'Willpower'
 date: '2021-03-19'
 rating: 9
 tags:
-  - book-summary
+  - book summary
   - willpower
 author: 'Roy F. Baumeister'
 image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347857263l/11104933.jpg

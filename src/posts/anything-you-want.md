@@ -2,7 +2,7 @@
 title: 'Anything you want - 40 lessons for a new kind of entrepreneur'
 date: 2019-11-22
 tags:
-  - book-summary
+  - book summary
 rating: 9
 author: 'Derek Sivers'
 image: https://sive.rs/images/DerekSivers-cover-AnythingYouWant-400x640.jpg

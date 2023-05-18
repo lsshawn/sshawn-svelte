@@ -2,8 +2,8 @@
 title: 'Starcraft: we programmed a world only to be beaten by programs'
 date: 2019-11-01
 tags:
-  - mental-model
-featuredImage: 'https://res.cloudinary.com/cupbots/image/upload/w_600,f_auto/v1656941676/game-console.jpg'
+  - mental model
+image: 'https://res.cloudinary.com/cupbots/image/upload/w_600,f_auto/v1656941676/game-console.jpg'
 imageCredit: 'Giphy'
 ---
 

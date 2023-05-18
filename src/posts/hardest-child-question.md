@@ -1,7 +1,7 @@
 ---
 title: 'The second hardest question your 9 year old will ask you'
 date: '2019-11-04'
-featuredImage: 'https://res.cloudinary.com/cupbots/image/upload/w_600,f_auto/v1656945719/child-with-egg.jpg'
+image: 'https://res.cloudinary.com/cupbots/image/upload/w_600,f_auto/v1656945719/child-with-egg.jpg'
 imageCredit: 'Hannah Tasker'
 imageCreditURL: 'https://unsplash.com/photos/ZBkH8G4_yyE'
 ---

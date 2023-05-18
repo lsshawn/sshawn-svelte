@@ -4,7 +4,7 @@ date: '2019-11-09'
 rating: 10
 author: 'Diccon Bewes'
 tags:
-  - book-summary
+  - book summary
   - travel
 image: https://static.wixstatic.com/media/559e4f_b0b5897223284fde85f2989e874865d8~mv2_d_3024_4032_s_4_2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.png
 bookURL: https://www.amazon.com/dp/B007L0H0SCtag=sshawn0c-20

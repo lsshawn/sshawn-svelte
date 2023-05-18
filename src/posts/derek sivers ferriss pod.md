@@ -2,9 +2,9 @@
 title: Derek Sivers interview at Tim Ferriss Podcast
 date: 2023-05-01
 tags:
-  - how-to-live
-  - derek-sivers
-  - tim-ferriss
+  - how to live
+  - derek sivers
+  - tim ferriss
 ---
 
 You know how you have that bad pen? Throw out the bad pen.”

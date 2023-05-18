@@ -4,7 +4,7 @@ date: '2020-03-05'
 rating: 8
 author: 'Scott Adams'
 tags:
-  - book-summary
+  - book summary
   - persuasion
 image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509644135l/36523092._SX318_.jpg
 bookURL: https://www.amazon.com/dp/10735219710?tag=sshawn0c-20

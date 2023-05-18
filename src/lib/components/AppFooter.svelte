@@ -28,7 +28,7 @@
 	]
 </script>
 
-<footer class="footer footer-center p-2 text-gray-400 mb-8">
+<footer class="footer footer-center p-2 text-gray-400 mb-24">
 	<div class="flex flex-col w-full">
 		<div class="divider">
 			<img src="/images/logo.png" class="w-20 aspect-square indefinite-wobble" alt="SShawn" />

@@ -4,7 +4,7 @@ date: '2019-05-22'
 rating: 5
 author: 'Ryan Holiday'
 tags:
-  - book-summary
+  - book summary
   - business
   - growth
 image: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcharlesfloate.com%2Fwp-content%2Fuploads%2F2016%2F09%2Ftrustmeimlying.jpg&f=1&nofb=1

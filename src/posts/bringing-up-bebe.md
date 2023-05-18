@@ -4,7 +4,7 @@ date: '2018-08-30'
 rating: 10
 author: 'Pamela Druckerman'
 tags:
-  - book-summary
+  - book summary
   - parenting
 image: https://images-na.ssl-images-amazon.com/images/I/51BOFxJx4JL._SX324_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/0143122967?tag=sshawn0c-20

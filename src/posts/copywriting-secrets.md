@@ -4,7 +4,7 @@ subtitle: 'How Everyone Can Use the Power of Words to Get More Clicks, Sales and
 date: '2021-01-21'
 rating: 9
 tags:
-  - book-summary
+  - book summary
   - copywriting
 author: 'Jim Edwards'
 image: https://images-na.ssl-images-amazon.com/images/I/61MWwajeM1L.jpg

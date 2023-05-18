@@ -4,8 +4,8 @@ date: '2019-10-02'
 rating: 7
 author: 'David Hauser'
 tags:
-  - book-summary
-  - how-to-live
+  - book summary
+  - how to live
 image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fappsumo2.b-cdn.net%2Fmedia%2Fcache%2Fb5%2F88%2Fb5884704dc84a925a4a6d9f041111ca1.jpg&f=1&nofb=1
 bookURL: https://www.amazon.com/dp/1544503245tag=sshawn0c-20
 ---

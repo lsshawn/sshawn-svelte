@@ -3,7 +3,7 @@ title: "This Is Marketing: You Can't Be Seen Until You Learn to See"
 date: '2018-12-11'
 rating: 6
 tags:
-  - book-summary
+  - book summary
   - marketing
   - seth-godin
 author: 'Seth Godin'
