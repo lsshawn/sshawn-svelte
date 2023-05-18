@@ -3,11 +3,16 @@ title: "Trust Me I'm Lying"
 date: '2019-05-22'
 rating: 5
 author: 'Ryan Holiday'
-category: Book Summary
-featuredImage: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcharlesfloate.com%2Fwp-content%2Fuploads%2F2016%2F09%2Ftrustmeimlying.jpg&f=1&nofb=1
-summary: Part actionable, part rant on how the media is manipulate. The tactics aren't new - shady but effective.
+tags:
+  - book-summary
+  - business
+  - growth
+image: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcharlesfloate.com%2Fwp-content%2Fuploads%2F2016%2F09%2Ftrustmeimlying.jpg&f=1&nofb=1
 bookURL: https://www.amazon.com/dp/159184553X?tag=sshawn0c-20
 ---
+
+Part actionable, part rant on how the media is manipulate. The tactics aren't new - shady but effective.
+
 Exclusives build blogs. Scoops equal traffic.
 
 Blogs are built and run with an exit in mind.

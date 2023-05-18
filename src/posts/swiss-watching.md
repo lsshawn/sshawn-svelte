@@ -3,11 +3,13 @@ title: 'Swiss Watching: Inside the land of milk and honey'
 date: '2019-11-09'
 rating: 10
 author: 'Diccon Bewes'
-category: Book Summary
-featuredImage: https://static.wixstatic.com/media/559e4f_b0b5897223284fde85f2989e874865d8~mv2_d_3024_4032_s_4_2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.png
-summary: "All travel book should be written this way. Hilarios observations you can only get from people watching. No amount of Youtube can show you these. The book notes here are scrambles of facts. Read this if you've always wondered about penknife, cheese, chocolate and Rolex."
+tags:
+  - book-summary
+  - travel
+image: https://static.wixstatic.com/media/559e4f_b0b5897223284fde85f2989e874865d8~mv2_d_3024_4032_s_4_2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.png
 bookURL: https://www.amazon.com/dp/B007L0H0SCtag=sshawn0c-20
 ---
+
 All travel book should be written this way. Hilarious observations you can only get from people watching. No amount of Youtube can show you these.
 
 The book notes here are scrambles of facts. Read this if you've always wondered about penknife, cheese, chocolate and Rolex.

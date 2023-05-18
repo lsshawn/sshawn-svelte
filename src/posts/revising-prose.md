@@ -3,11 +3,13 @@ title: 'Revising Prose'
 date: '2018-08-29'
 rating: 7
 author: 'Richard A. Lanham'
-category: Book Summary
-featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387668721l/1552699.jpg
-summary: It's only 176 pages and I think it's a required read for all office workers. This is about cutting the fats and writing your idea clearly.
+tags:
+  - book-summary
+  - writing
+image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387668721l/1552699.jpg
 bookURL: https://www.amazon.com/dp/0321441699?tag=sshawn0c-20
 ---
+
 It's only 176 pages and I think it's a required read for all office workers. This is about cutting the fats and writing your idea clearly.
 
 # Highlights

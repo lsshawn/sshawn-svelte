@@ -2,10 +2,11 @@
 title: 'Willpower'
 date: '2021-03-19'
 rating: 9
-category: Book Summary
+tags:
+  - book-summary
+  - willpower
 author: 'Roy F. Baumeister'
-featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347857263l/11104933.jpg
-summary: The highest possible stage in moral culture is when we recognize that we ought to control our thoughts.
+image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347857263l/11104933.jpg
 bookURL: https://www.amazon.com/dp/0143122231?tag=sshawn0c-20
 ---
 
@@ -127,6 +128,7 @@ Just remember that if you want to instill self-control, you need to be **consist
 ## Playing to Win
 
 To control your weight, you need the discipline to follow these three rules:
+
 1. Never go on a diet.
 2. Never vow to give up chocolate or any other food.
 3. Whether you’re judging yourself or judging others, never equate being overweight with having weak willpower.

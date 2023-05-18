@@ -3,11 +3,13 @@ title: 'Bringing Up Bébé: One American Mother Discovers the Wisdom of French P
 date: '2018-08-30'
 rating: 10
 author: 'Pamela Druckerman'
-category: Book Summary
-featuredImage: https://images-na.ssl-images-amazon.com/images/I/51BOFxJx4JL._SX324_BO1,204,203,200_.jpg
-summary: French kids can sit patiently and wait for the food. When the kids play, moms can enjoy a cup of tea and chat with almost no interruptions. And 2 months old babies start sleeping through the night. This book revealed a lot of French culture and parenting. Patience. Cadre. Pleasure.
+tags:
+  - book-summary
+  - parenting
+image: https://images-na.ssl-images-amazon.com/images/I/51BOFxJx4JL._SX324_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/0143122967?tag=sshawn0c-20
 ---
+
 French kids can sit patiently and wait for the food.
 
 When the kids play, moms can enjoy a cup of tea and chat with almost no interruptions.

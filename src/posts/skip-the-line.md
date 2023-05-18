@@ -2,12 +2,15 @@
 title: 'Skip the line'
 date: '2021-03-26'
 rating: 10
-category: Book Summary
+tags:
+  - book-summary
+  - james-altucher
+  - how-to-live
 author: 'James Altucher'
-featuredImage: https://images-na.ssl-images-amazon.com/images/I/41JRKIKqumL._SX331_BO1,204,203,200_.jpg
-summary: "Make many experiments to be anti-fragile. Don't attach to the results. Fear is growth. Learn persuasion and other micro skills. Find business models within the 3 models of billion-dollar business."
+image: https://images-na.ssl-images-amazon.com/images/I/41JRKIKqumL._SX331_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/0062998927?tag=sshawn0c-20
 ---
+
 The key to skipping the line is to constantly live in the world of “not knowing. To constantly be curious but not threatened by what’s next.
 
 ## The 1 Percent Rule
@@ -17,6 +20,7 @@ The key to skipping the line is to constantly live in the world of “not knowin
 ## 10,000 Experiments
 
 What makes a good experiment?
+
 1. Easy to set-up and do
 2. Little downside
 3. Huge potential upside
@@ -64,6 +68,7 @@ List all the ways you can spend more and more of your day involved. Find a commu
 ## Exercise the Possibility Muscle
 
 There are two types of failure:
+
 1. Omission: If you don’t try at all, then you’ve failed.
 2. Commission: Your business failed.
 
@@ -182,6 +187,7 @@ First, list in your head the six to ten possibilities before looking too serious
 If you go too deeply down one of the choices first, you might miss the obvious and waste valuable time.
 
 When making decision:
+
 1. List all the possibilities.
 2. Use conspiracy numbers to analyze each one. How many things need to conspire for you to get to the goal you want?
 3. Pick the decision with the lowest conspiracy number. It should be so low that the downside/upside ratio should look like an experiment.
@@ -223,6 +229,7 @@ If someone had written, “Hey, can we jump on a call for a few minutes?” and 
 Get permission on both sides before connecting them.
 
 Eliminate the time wasters that drag people down. Two ways to do this:
+
 1. Never go to a “general” networking event unless it’s for a specific topic or purpose
 2. Create software to optimize your networking time. E.g. Contactually
 
@@ -260,6 +267,7 @@ Shouldn’t you be aware of what’s happening in your own country so you can cr
 If someone presents an idea, the key is to say, “Yes, and...” Help them explore their idea. Help them be creative about their idea. “Yes, and...” is the first rule of good improv for a reason. It allows others to create something new.
 
 Then give constructive criticism:
+
 - List what’s good.
 - Offer how you would improve upon the idea.
 - Restate the core idea, its intention, and its purpose.
@@ -365,6 +373,7 @@ But ultimately any good business is going to be about service to others.
 Uber of ...
 
 The three parts of the access economy model are:
+
 1. Excess: Some people have an excessive amount of an item, call it X.
 2. Want: Some people want X.
 3. Platform: A platform in the middle helps people who want X discover it, buy it, transact securely, have customer service, deal with security, keep track of good customers and bad, etc.
@@ -417,13 +426,13 @@ If you tell a good story and two people from opposite sides of the world trust t
 10. Eat 80% of your capacity to live longer. Hara hachi bun me.
 11. Don't "cant'" If there’s something you passionately want, there’s always some way to get it or get close to it.
 12. Double park with impunity.
-14. Buy conveniece.
-15. Skip the news
-16. Read
-17. Everything worthwhile need skills
-18. If someone doesn't like you, ignore them.
-19. Decide what you believe in and don't compromise.
-20. Don't believe something because other people believes it.
-21. Don't outsource self-esteem. Limit the number of people you look to for validation.
-22. There’s always a good reason and a real reason.
-23. Call often
+13. Buy conveniece.
+14. Skip the news
+15. Read
+16. Everything worthwhile need skills
+17. If someone doesn't like you, ignore them.
+18. Decide what you believe in and don't compromise.
+19. Don't believe something because other people believes it.
+20. Don't outsource self-esteem. Limit the number of people you look to for validation.
+21. There’s always a good reason and a real reason.
+22. Call often

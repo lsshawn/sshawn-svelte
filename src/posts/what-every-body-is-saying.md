@@ -2,12 +2,16 @@
 title: "What Every Body Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People"
 date: '2020-08-09'
 rating: 8
-category: Book Summary
+tags:
+  - book-summary
+  - communication
 author: 'Joe Navarro, Marvin Karlins'
-featuredImage: https://images-na.ssl-images-amazon.com/images/I/61u0-rLEtDL.jpg
-summary: "I'm not trying to be a better lie detector. I picked this book to develop a sixth-sense empathy in other people. If one is showing signs of being uncomfortable when I propose a solution, I could address the feeling without asking directly - because people tend to be polite and say everything is okay."
+image: https://images-na.ssl-images-amazon.com/images/I/61u0-rLEtDL.jpg
 bookURL: https://www.amazon.com/dp/0061438294?tag=sshawn0c-20
 ---
+
+I'm not trying to be a better lie detector. I picked this book to develop a sixth-sense empathy in other people. If one is showing signs of being uncomfortable when I propose a solution, I could address the feeling without asking directly - because people tend to be polite and say everything is okay.
+
 ## Commandments
 
 1. Be a competent observer of your environment.

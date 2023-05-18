@@ -2,12 +2,15 @@
 title: 'Purple Cow: Transform Your Business by Being Remarkable'
 date: '2019-08-08'
 rating: 9
-category: Book Summary
+tags:
+  - book-summary
+  - seth-godin
+  - business
 author: 'Seth Godin'
-featuredImage: https://images-na.ssl-images-amazon.com/images/I/814WSERaoyL.jpg
-summary: "It's safer to be risky. Go for the edges and help your early adopters sneeze."
+image: https://images-na.ssl-images-amazon.com/images/I/814WSERaoyL.jpg
 bookURL: https://www.amazon.com/dp/1591843170?tag=sshawn0c-20
 ---
+
 ## Why You Need the Purple Cow
 
 Being first in pain relievers was an even better idea. Alas, they’re both taken.

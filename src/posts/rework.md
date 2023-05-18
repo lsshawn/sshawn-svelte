@@ -2,10 +2,12 @@
 title: 'Rework'
 date: '2019-12-21'
 rating: 10
-category: Book Summary
 author: 'Jason Fried, David Heinemeier Hansson'
-featuredImage: https://s3-us-west-2.amazonaws.com/tabs.web.media/a/s/asac/asac-square-1536.jpg
-summary: No nonsense book on how to create and manage a business.
+tags:
+  - book-summary
+  - business
+  - basecamp
+image: https://s3-us-west-2.amazonaws.com/tabs.web.media/a/s/asac/asac-square-1536.jpg
 bookURL: https://www.amazon.com/dp/0321441699?tag=sshawn0c-20
 ---
 

@@ -3,11 +3,15 @@ title: "Win Bigly - persuasion in a world where facts don't matter"
 date: '2020-03-05'
 rating: 8
 author: 'Scott Adams'
-category: Book Summary
-featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509644135l/36523092._SX318_.jpg
-summary: 31 persuasion tips and study on Trump's choice of word, actions and persuasion that led him to be elected.
+tags:
+  - book-summary
+  - persuasion
+image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509644135l/36523092._SX318_.jpg
 bookURL: https://www.amazon.com/dp/10735219710?tag=sshawn0c-20
 ---
+
+31 persuasion tips and study on Trump's choice of word, actions and persuasion that led him to be elected.
+
 # 31 Persuasion Tips:
 
 1. When you identify as part of a group, your opinion tend to be biased toward the group consensus.

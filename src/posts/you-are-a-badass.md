@@ -3,11 +3,15 @@ title: 'You are a badass every day'
 date: '2020-01-19'
 author: 'Jen Sincero'
 rating: 7
-category: Book Summary
-featuredImage: https://jensincero.com/images/yaabed-large.jpg
-summary: Please do not waste your one and only chance to be the you that is you on planet Earth screwing around with excuses when you have the power to create whatever you desire.
+tags:
+  - book-summary
+  - how-to-live
+image: https://jensincero.com/images/yaabed-large.jpg
 bookURL: https://www.amazon.com/dp/0525561641?tag=sshawn0c-20
 ---
+
+Please do not waste your one and only chance to be the you that is you on planet Earth screwing around with excuses when you have the power to create whatever you desire.
+
 The excellent thing about living as a human being on planet Earth is that you have the almighty power of choice, which means you get to choose between achieving success and giving up.
 
 The excellent thing about success is that it always comes down to one simple thing: the decision to keep going until you've reached your goal.

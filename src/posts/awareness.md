@@ -1,11 +1,11 @@
 ---
 title: 'Awareness'
-date: '2020-01-03'
+date: 2020-01-03
 rating: 8
-category: Book Summary
+tags:
+  - how-to-live
 author: 'Anthony de Mello'
-featuredImage: https://www.momadvice.com/blog/wp-content/uploads/2015/06/Awareness.jpg
-summary: 'Wisdoms on many Stoic theme: Love, selfishness, awakening, being present, and controlling what you can.'
+image: https://www.momadvice.com/blog/wp-content/uploads/2015/06/Awareness.jpg
 bookURL: https://www.amazon.com/dp/0385249373?tag=sshawn0c-20
 ---
 

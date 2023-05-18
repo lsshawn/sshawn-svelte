@@ -3,11 +3,13 @@ title: 'Start with Why: How Great Leaders Inspire Everyone to Take Action'
 date: '2018-12-30'
 rating: 7
 author: 'Simon Sinek'
-category: Book Summary
-featuredImage: https://images-na.ssl-images-amazon.com/images/I/51xrHMLGJPL._SX330_BO1,204,203,200_.jpg
-summary: Your message needs to be in 'why-how-what' order.
+tags:
+  - book-summary
+  - lead
+image: https://images-na.ssl-images-amazon.com/images/I/51xrHMLGJPL._SX330_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/B002Q6XUE4?tag=sshawn0c-20
 ---
+
 There was a period in your childhood when you questioned everything.
 
 Why is the truck moving?

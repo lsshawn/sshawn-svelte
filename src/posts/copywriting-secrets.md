@@ -3,10 +3,11 @@ title: 'Copywriting Secrets'
 subtitle: 'How Everyone Can Use the Power of Words to Get More Clicks, Sales and Profits . . . No Matter What You Sell or Who You Sell It To!'
 date: '2021-01-21'
 rating: 9
-category: Book Summary
+tags:
+  - book-summary
+  - copywriting
 author: 'Jim Edwards'
-featuredImage: https://images-na.ssl-images-amazon.com/images/I/61MWwajeM1L.jpg
-summary: Nobody will write better copy for your stuff than you.
+image: https://images-na.ssl-images-amazon.com/images/I/61MWwajeM1L.jpg
 bookURL: https://www.amazon.com/dp/B082L4R78V?tag=sshawn0c-20
 ---
 
@@ -69,20 +70,20 @@ The secret of a great headline is one that connects emotionally with the person 
 
 Here are some headline templates you can use immediately.
 
-- How To Get ________
-- How To ________ In As Little As ________
-- How To ________ In As Little As ________ . . . even if you ________!
-- How Every ________ Can ________
-- 5 Quick And Easy Ways To ________
-- 3 Fast Ways To Get ________ And Avoid ________
-- Which Of These ________ Mistakes Will You Make?
-- ________ Mistakes All ________ Need To Avoid!
-- ________ Mistakes Every ________ Needs To Avoid!
-- WARNING: Here’s What Every ________ Needs To Know About ________
-- WARNING: Don’t Even Think About Trying To ________ Until You Read This
-- Here’s The Perfect Solution If You Want ________
-- Here’s The Perfect Solution If You Want ________ (even if 46 ________)
-- My Proven ________ Method To ________
+- How To Get **\_\_\_\_**
+- How To **\_\_\_\_** In As Little As **\_\_\_\_**
+- How To **\_\_\_\_** In As Little As **\_\_\_\_** . . . even if you **\_\_\_\_**!
+- How Every **\_\_\_\_** Can **\_\_\_\_**
+- 5 Quick And Easy Ways To **\_\_\_\_**
+- 3 Fast Ways To Get **\_\_\_\_** And Avoid **\_\_\_\_**
+- Which Of These **\_\_\_\_** Mistakes Will You Make?
+- **\_\_\_\_** Mistakes All **\_\_\_\_** Need To Avoid!
+- **\_\_\_\_** Mistakes Every **\_\_\_\_** Needs To Avoid!
+- WARNING: Here’s What Every **\_\_\_\_** Needs To Know About **\_\_\_\_**
+- WARNING: Don’t Even Think About Trying To **\_\_\_\_** Until You Read This
+- Here’s The Perfect Solution If You Want **\_\_\_\_**
+- Here’s The Perfect Solution If You Want **\_\_\_\_** (even if 46 **\_\_\_\_**)
+- My Proven **\_\_\_\_** Method To **\_\_\_\_**
 
 # Secret #7 It’s NEVER “One Size Fits All”
 
@@ -127,6 +128,7 @@ Then, what are 67 Fred’s top two questions? Then, what are his two big roadblo
 Finally, what are the top two results that Fred desires?
 
 Examples:
+
 - Discover The New Way To Find Great Deals Fast.
 - How To Find Great Deals Fast, So You Can Avoid Buying A Poison House That Destroys Your Business!
 - Find great deals in half the time. Two shortcuts for real estate investing.
@@ -149,9 +151,9 @@ What they want is not the hole in the wall; they want their wife to stop bitchin
 
 What we need to drill down to is the meaning of each benefit.
 
-**Basic Bullet Formula Formula**: It ________ so you can ________
+**Basic Bullet Formula Formula**: It **\_\_\_\_** so you can **\_\_\_\_**
 
-Benefit = what it does Meaning = what it means to the buyer / reader / prospect Formula: It ________ so you can _______ which means _______.
+Benefit = what it does Meaning = what it means to the buyer / reader / prospect Formula: It **\_\_\_\_** so you can **\_\_\_** which means **\_\_\_**.
 
 # Secret #10 What REALLY Sells People (It’s NOT What You Think)
 
@@ -163,7 +165,7 @@ Make them feel cool by owning that drill. Make them feel smart by having that dr
 
 As soon as you make a statement about what something is or what it does, you use those two magic words “which means..."
 
-Love for _____ (family, self, country, community, etc.) Hate Fear of _____ (failure, making mistakes, death, loss, etc.) Vanity Pride Longing for _____ (fulfillment, peace, completion, etc.) 80 Greed Freedom
+Love for **\_** (family, self, country, community, etc.) Hate Fear of **\_** (failure, making mistakes, death, loss, etc.) Vanity Pride Longing for **\_** (fulfillment, peace, completion, etc.) 80 Greed Freedom
 
 # Secret #11 Why Good Enough Makes You (and keeps you) Poor!
 
@@ -212,19 +214,20 @@ You use the long copy to sell a higher priced item and if people need more infor
 Your headline in a video sales letter or a spoken script are those first couple of sentences. So the first part grabbed their attention, then you identified yourself, and finally you let them know what to expect.
 
 ### Define the Problem
-Here’s the problem you face ___________.
+
+Here’s the problem you face \***\*\_\_\_\*\***.
 
 ### Agitate
 
 “They don’t buy if it don’t hurt!” Jim Edwards This step is where you pour on the pain. You make it worse by using
 
-“which means you _____.”
+“which means you **\_**.”
 
 Which means you’ll never share your message with the world and when you die, your message dies with you.
 
 ### Present The Solution
 
-“Luckily for you, there’s now a solution. Let me introduce you to _____.”
+“Luckily for you, there’s now a solution. Let me introduce you to **\_**.”
 
 ### Use Bullets To Arouse Curiosity
 
@@ -258,6 +261,7 @@ Secret #18 How To Write Killer Email Teasers—FAST
 Most people make the mistake of selling the offer in the email teaser. Don’t!
 
 A great email teaser breaks down like this:
+
 - Great subject line
 - Salutation
 - Shocking statement (Did you know that...)
@@ -271,18 +275,22 @@ Think and write in chunks.
 # Secret #20 Make ‘Em More Thirsty
 
 Five types of stories:
+
 1. actual stories
 2. case studies
 3. Examples
 4. The Three M’s of Content,
+
 - dispelling a myth.
 - misconception.
 - mistakes
+
 5. Future pacing. These types of stories explain what life will be like when they take specific actions. You explain how your product, service, software—whatever—will help them. Example:
 
 > "I want you to imagine having your own unique book with your name on it as the author."
 
 Ways you can sell when creating content
+
 1. give something valuable for free that naturally leads to an additional purchase. You teach somebody something or provide something that automatically creates the need for what you’re selling.
 2. Tell them what to do and why they should do. Then sell them the how and what.
 3. Teach all the steps leading to what you want them to purchase.
@@ -297,6 +305,7 @@ The fastest way to establish that persona is to take a stand, to have a position
 Headline is your most important component. The promise of any product or service, often contained in that headline, is the key to selling.
 
 Formula for creating a profitable promise:
+
 1. the hurdle
 2. the prize
 3. the timing
@@ -312,7 +321,7 @@ Eliminator: let them off the hook, as in “it’s not their fault”. Remember 
 
 "...even if you can’t write, can’t type, and failed high school English class.” That’s your eliminator.
 
-“How to make a thousand dollars as a _____ or with _____or doing _____.” And you can forgive past mistakes. “Even if you’ve tried before and failed.”
+“How to make a thousand dollars as a **\_** or with **\_**or doing **\_**.” And you can forgive past mistakes. “Even if you’ve tried before and failed.”
 
 Now, in what niche groups of people does this formula work? It works with everyone who needs a problem solved or has an intense desire.
 
@@ -342,7 +351,7 @@ Use the negative going on inside of their head to get in sync with them.
 
 So once they know you’re paying attention to them because you acknowledged their problem, then you demonstrate the solution to the problem.
 
-“Now some of our competitors will tell you _____, but that’s just not true. Here are the facts you need to know.”
+“Now some of our competitors will tell you **\_**, but that’s just not true. Here are the facts you need to know.”
 
 Never go negative by attacking someone or a company by name.
 
@@ -358,7 +367,7 @@ Hook them in with the promise (and delivery) of value. Give them tips.
 
 “Didja know there are three ways to create and publish a book without writing? Absolutely. Here they are.”
 
-By the way, did you know that you can _____ with _____? Yep, it’s true. Go here for more information.
+By the way, did you know that you can **\_** with **\_**? Yep, it’s true. Go here for more information.
 
 # Secret #27 The Magic Desk
 
@@ -399,6 +408,7 @@ Hooks are often “hidden” stories or angles.
 A hook is often a one-sentence story about you, about someone else,
 
 Some formulas:
+
 - Unlikely character plus timing plus results. “Former janitor goes from bankrupt to paid-off house in eighteen months with profits from his e-book business.”
 - Result plus timing minus pain. “Lose all the weight you want in the next thirty days without diet or
 
@@ -440,4 +450,4 @@ For digital product, I would talk about how they will solve their problem or sat
 
 For consultancy, talk about how they will fulfill their desire by hiring the consultant.
 
-The easiest takeaway to use is: “Now, this isn’t for everybody. This is only for people who are _____.”
+The easiest takeaway to use is: “Now, this isn’t for everybody. This is only for people who are **\_**.”

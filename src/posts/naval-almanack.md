@@ -2,13 +2,14 @@
 title: 'The Almanack of Naval Ravikant: A Guide to Wealth and Happiness'
 date: '2021-04-21'
 rating: 10
-category: Book Summary
+tags:
+  - book-summary
+  - naval
+  - how-to-live
 author: 'Eric Jorgenson'
-summary: 'Read more. Code or create. Value time. Be bored. Desire nothing. Seek freedom from.'
-featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598011736l/54898389._SY475_.jpg
+image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598011736l/54898389._SY475_.jpg
 bookURL: https://www.navalmanack.com/
 ---
-
 
 ## On Love
 
@@ -171,6 +172,7 @@ For someone who is early in their career (and maybe even later), the single most
 ## How to Get Lucky
 
 Increase luck by:
+
 - hustle and persist
 - become the best, weirdest, hardest in your area
 

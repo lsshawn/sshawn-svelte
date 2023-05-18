@@ -2,12 +2,17 @@
 title: "This Is Marketing: You Can't Be Seen Until You Learn to See"
 date: '2018-12-11'
 rating: 6
-category: Book Summary
+tags:
+  - book-summary
+  - marketing
+  - seth-godin
 author: 'Seth Godin'
-featuredImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529247040i/40549476._UY500_SS500_.jpg
-summary: "If you've read a lot of Seth Godin's work, this book won't be eye-opening. This book feels like a summary of Purple Cow, The Dip, and Tribes."
+image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529247040i/40549476._UY500_SS500_.jpg
 bookURL: https://www.amazon.com/dp/0525540830?tag=sshawn0c-20
 ---
+
+If you've read a lot of Seth Godin's work, this book won't be eye-opening. This book feels like a summary of Purple Cow, The Dip, and Tribes.
+
 ## The market decides
 
 Marketing is the act of making change happen. Making is insufficient.
@@ -78,7 +83,7 @@ Perhaps instead of talking about prospects and customers, we could call them you
 
 ## The simple marketing promise
 
-> My product is for people who believe ********\_********. I will focus on people who want ********\_********. I promise that engaging with what I make will help you get ********\_********.
+> My product is for people who believe **\*\*\*\***\_**\*\*\*\***. I will focus on people who want **\*\*\*\***\_**\*\*\*\***. I promise that engaging with what I make will help you get **\*\*\*\***\_**\*\*\*\***.
 
 ## Authenticity versus emotional labor
 

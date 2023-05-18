@@ -1,13 +1,14 @@
 ---
 title: 'Building a StoryBrand: Clarify Your Message So Customers Will Listen'
-date: '2019-01-21'
+date: 2019-01-21
 rating: 7
 author: 'Donald Miller'
-category: Book Summary
-featuredImage: https://images-na.ssl-images-amazon.com/images/I/41gwu0NcCrL._SX326_BO1,204,203,200_.jpg
-summary: Before you start the next project or blog post, use the 7-step process to create a 'BrandScript.' Everything from your marketing campaign to your website should come out from one of these 7 buckets.
-bookURL:https://www.amazon.com/dp/0718033329?tag=sshawn0c-20
+tags:
+  - book-summary
+image: https://images-na.ssl-images-amazon.com/images/I/41gwu0NcCrL._SX326_BO1,204,203,200_.jpg
+bookURL: https://www.amazon.com/dp/0718033329?tag=sshawn0c-20
 ---
+
 People need clarity.
 
 Look at your website. Can you answer these in 5 seconds:

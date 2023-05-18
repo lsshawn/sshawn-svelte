@@ -2,38 +2,40 @@
 title: 'How to live - 27 conflicting answers and one weird conclusion'
 date: '2022-08-03'
 rating: 10
-category: Book Summary
+tags:
+  - book-summary
+  - derek-sivers
 author: 'Derek Sivers'
-featuredImage: https://sive.rs/images/DerekSivers-cover-HowToLive-400x640.jpg
+image: https://sive.rs/images/DerekSivers-cover-HowToLive-400x640.jpg
 summary: This is my bible.
 bookURL: https://sive.rs/h
 ---
 
 <!-- vim-markdown-toc GFM -->
 
-* [Be independent](#be-independent)
-* [Commit](#commit)
-* [Fill your senses](#fill-your-senses)
-* [Do nothing](#do-nothing)
-* [Think super-long-term](#think-super-long-term)
-* [Intertwine with the world](#intertwine-with-the-world)
-* [Let randomness rule](#let-randomness-rule)
-* [Pursue pain](#pursue-pain)
-* [Do whatever you want now](#do-whatever-you-want-now)
-* [Chase the future](#chase-the-future)
-* [Value only what has endured](#value-only-what-has-endured)
-* [Learn](#learn)
-* [Laugh at life](#laugh-at-life)
-* [Prepare for the worst](#prepare-for-the-worst)
-* [Live for others](#live-for-others)
-* [Get rich](#get-rich)
-* [Reinvent yourself regularly](#reinvent-yourself-regularly)
-* [Love](#love)
-* [Create](#create)
-* [Don’t die](#dont-die)
-* [Make a million mistakes](#make-a-million-mistakes)
-* [Make change.](#make-change)
-* [Balance everything](#balance-everything)
+- [Be independent](#be-independent)
+- [Commit](#commit)
+- [Fill your senses](#fill-your-senses)
+- [Do nothing](#do-nothing)
+- [Think super-long-term](#think-super-long-term)
+- [Intertwine with the world](#intertwine-with-the-world)
+- [Let randomness rule](#let-randomness-rule)
+- [Pursue pain](#pursue-pain)
+- [Do whatever you want now](#do-whatever-you-want-now)
+- [Chase the future](#chase-the-future)
+- [Value only what has endured](#value-only-what-has-endured)
+- [Learn](#learn)
+- [Laugh at life](#laugh-at-life)
+- [Prepare for the worst](#prepare-for-the-worst)
+- [Live for others](#live-for-others)
+- [Get rich](#get-rich)
+- [Reinvent yourself regularly](#reinvent-yourself-regularly)
+- [Love](#love)
+- [Create](#create)
+- [Don’t die](#dont-die)
+- [Make a million mistakes](#make-a-million-mistakes)
+- [Make change.](#make-change)
+- [Balance everything](#balance-everything)
 
 <!-- vim-markdown-toc -->
 
@@ -82,6 +84,7 @@ Experience nothing twice.
 Learn to sell, and you can go anywhere.
 
 Simple decisions help avoid repetition.
+
 - Don’t have a home.
 - Never sleep in the same place twice.
 - No kitchen.
@@ -284,4 +287,3 @@ Schedule everything to ensure balance of your time and effort. Scheduling preven
 Even creative work needs scheduling. The greatest writers and artists didn’t wait for inspiration. They kept a strict daily schedule for creating their art.
 
 Set an alarm to start and stop on time.
-
