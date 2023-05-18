@@ -1,0 +1,103 @@
+{
+	"projects": [
+		{
+			"title": "Eurekaa",
+			"logo": "https://eurekaa.io/logo.png",
+			"url": "https://eurekaa.io",
+			"body": "Eurekaa is a suite of research tools for course creators to find opportunities and validate course ideas. I built the web app and scrapers to collect 200,000 courses across 10 platforms. Uses a proprietary scoring system to evaluate course opportunity and demand. 5 star rating on AppSumo.",
+			"image": "https://res.cloudinary.com/cupbots/image/upload/v1642946969/Screen_Shot_2022-01-23_at_22.09.04.png"
+		},
+		{
+			"title": "Impactora",
+			"logo": "https://impactology.netlify.app/logo.png",
+			"url": "https://impactology.netlify.app",
+			"body": "An app to advise employees on how to make an impact. Uses a questionnaire UI and search powered by Algolia. I also developed a clustering machine learning model to categorize app users.",
+			"image": "https://res.cloudinary.com/cupbots/image/upload/v1650729358/2022-04-23_23-55.png"
+		},
+		{
+			"title": "Third Idea",
+			"logo": "https://images.squarespace-cdn.com/content/v1/5acadc76f93fd493b449fe27/1523261073453-VOKBTYIARXD9ARB5OBEG/3rd+Idea_v1.png?format=750w",
+			"url": "https://app.third-idea.com",
+			"body": "A consulting chatbot for Human Resource managers to make better people decisions. Uses natural language processing (NLP) to provide recommendations.",
+			"image": "https://res.cloudinary.com/cupbots/image/upload/v1611917080/third-idea-app-screenshot.png"
+		},
+		{
+			"title": "Shoperware",
+			"logo": "https://res.cloudinary.com/cupbots/image/upload/v1598866698/Screenshot_20200831_173805.png",
+			"url": "https://shoperware.com",
+			"body": "A big data app to help Southeast Asia Shopee sellers to find product opportunities and track competitors.",
+			"image": "https://res.cloudinary.com/cupbots/image/upload/v1605870864/product-tracker-variation.png"
+		},
+		{
+			"title": "Singapore Coffee Ordering Prototype",
+			"logo": "",
+			"url": "https://coffee.sshawn.com",
+			"body": "An idea to make ordering coffee in Singapore more accessible to foreigners.",
+			"image": "https://res.cloudinary.com/cupbots/image/upload/v1611927857/minimalist-coffee-app.png"
+		},
+		{
+			"title": "Recruitment Tracker Prototype",
+			"logo": "",
+			"url": "https://pedantic-mcnulty-692c57.netlify.app/",
+			"body": "Recruitment firms manage hundreds of applicants movements every day. Most firm uses multiple Excel files and it's hard to track candidate progress. This is a prototype that can replace complicated excel files used at recruitment firms.",
+			"image": "https://res.cloudinary.com/cupbots/image/upload/v1611929178/recruitrack-demo.png"
+		}
+	],
+	"clients": [
+		{
+			"title": "Soap of the Day",
+			"logo": "https://soapoftheday.com.my/wp-content/uploads/2021/03/cropped-sotd-logo-transparent.png",
+			"url": "https://soapoftheday.com.my"
+		},
+		{
+			"title": "Souly",
+			"logo": "https://souly.com.my/wp-content/uploads/2021/07/Artboard-1-6.png",
+			"url": "https://souly.com.my"
+		},
+		{
+			"title": "Golden Bites",
+			"logo": "https://goldenbites.com.my/wp-content/uploads/2020/12/cropped-favicon-32x32-1-2-32x32.png",
+			"url": "https://goldenbites.com.my"
+		},
+		{
+			"title": "Shamrock Botanics",
+			"logo": "https://www.shamrockbotanics.com/wp-content/uploads/2020/11/logo2.svg",
+			"url": "https://shamrockbotanics.com"
+		},
+		{
+			"title": "Truly Gourmet",
+			"logo": "https://www.trulygourmet.co/wp-content/uploads/2020/12/LogoMakr-2Ow3Iy.png",
+			"url": "https://trulygourmet.co"
+		},
+		{
+			"title": "De Grand Grooming Academy",
+			"logo": "https://degrandgroomingacademy.com/wp-content/uploads/2019/06/petgrooming_academy.png",
+			"url": "https://degrandgroomingacademy.com"
+		},
+		{
+			"title": "LeToro Grooming",
+			"logo": "https://letorogrooming.com/wp-content/uploads/2020/03/transparentlogo.png",
+			"url": "https://letorogrooming.com"
+		},
+		{
+			"title": "Ethan Wong",
+			"logo": "https://www.3thanwong.com/wp-content/uploads/2020/05/Logo-mini.png",
+			"url": "https://3thanwong.com"
+		},
+		{
+			"title": "Extra Tasty Catering",
+			"logo": "https://extratasty.com.my/wp-content/uploads/2021/08/cropped-Logo-1-e1628225559846-1.png",
+			"url": "https://extratasty.com.my"
+		},
+		{
+			"title": "Limone Bakery",
+			"logo": "https://limonebakery.com/wp-content/uploads/2020/10/logo-1.png",
+			"url": "https://limonebakery.com"
+		},
+		{
+			"title": "Youniq",
+			"logo": "https://cdn.store-assets.com/s/30682/f/5306908.png?width=350&format=webp",
+			"url": "https://youniq.my"
+		}
+	]
+}

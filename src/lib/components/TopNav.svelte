@@ -1,51 +1,67 @@
 <script>
-    import { page } from '$app/stores';
-    $: basePath = $page.url.pathname.split('/')[1];
+	import { page } from '$app/stores'
+	import { onMount } from 'svelte'
+	$: basePath = $page.url.pathname.split('/')[1]
 
-    const tabs = [
-        {
-            title: 'Home',
-            route: '/'
-        },
-        {
-            title: 'Now',
-            route: 'now'
-        },
-        {
-            title: 'Books',
-            route: 'books'
-        },
-        {
-            title: 'About',
-            route: 'about'
-        }
-    ];
+	let isScrolled = false
+
+	onMount(() => {
+		window.addEventListener('scroll', handleScroll)
+	})
+
+	function handleScroll() {
+		const scrollPosition = window.scrollY
+		isScrolled = scrollPosition > 0
+	}
+
+	const tabs = [
+		{
+			title: 'Notes',
+			route: '/'
+		},
+		{
+			title: 'Now',
+			route: 'now'
+		},
+		{
+			title: 'About',
+			route: 'about'
+		}
+	]
 </script>
 
-<nav class="navbar bg-base-100">
-    <div class="flex-1">
-        <a class="btn btn-ghost normal-case text-xl" href="/">
-            <img
-                src="https://res.cloudinary.com/cupbots/image/upload/w_70,f_auto/v1656947127/sshawn-logo.png"
-                class="w-12 aspect-square"
-                alt="SShawn"
-            />
-            SShawn
-        </a>
-    </div>
-    <div class="flex-none hidden lg:block">
-        <ul class="menu menu-horizontal p-0">
-            {#each tabs as tab}
-                <li>
-                    <a
-                        href={tab.route}
-                        sveltekit:prefetch
-                        class:active={basePath === tab.route.replace('/', '')}
-                        class="font-bold text-xl w-48 justify-center
-                        ">{tab.title}</a
-                    >
-                </li>
-            {/each}
-        </ul>
-    </div>
-</nav>
+<div
+	class="navbar bg-base-100 flex justify-between sticky top-0 z-10"
+	class:navbar-scrolled={isScrolled}
+>
+	<div class="">
+		<a class="btn btn-ghost normal-case hover:bg-white wobble-image" href="/">
+			<img src="/images/logo.png" class="w-12 aspect-square" alt="SShawn" />
+			SShawn
+		</a>
+	</div>
+	<div class="">
+		<ul class="menu menu-horizontal p-0">
+			{#each tabs as tab}
+				<li class:active-menu={basePath === tab.route.replace('/', '')} class="md:mx-3">
+					<a
+						href={tab.route}
+						class="text-gray-400 md:text-xl justify-center font-bold
+            hover:text-black hover:bg-white
+            ">{tab.title}</a
+					>
+				</li>
+			{/each}
+		</ul>
+	</div>
+</div>
+
+<style lang="postcss">
+	.active-menu a {
+		@apply text-black font-bold;
+	}
+
+	.navbar-scrolled {
+		border-bottom: 1px solid #e5dfdf;
+	}
+</style>
