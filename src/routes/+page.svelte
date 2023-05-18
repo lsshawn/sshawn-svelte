@@ -1,10 +1,13 @@
 <script>
 	import PostFeaturedImage from '$lib/components/PostFeaturedImage.svelte'
 	import PostMeta from '$lib/components/PostMeta.svelte'
+	import Seo from '$lib/components/seo.svelte'
 
 	export let data
+	const seoProps = { title: 'Notes' }
 </script>
 
+<Seo {...seoProps} />
 <div class="content-container prose">
 	{#each data.posts as post}
 		<div class="card">
