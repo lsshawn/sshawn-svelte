@@ -5,9 +5,7 @@ tags:
   - community
 ---
 
-# Finding my community
-
-This is me thinking through [The Minimalist Entrepreneur's finding community](221026-1522-minimalist-entrepreneur.md) questions:
+This is me thinking through "The Minimalist Entrepreneur" questions:
 
 - If I talk, who listens?
 - Where and with whom do I already spend my time, online and offline?
