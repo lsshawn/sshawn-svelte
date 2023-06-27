@@ -1,6 +1,6 @@
 ---
 title: 'AI killing artist?'
-date: '2023-06-27'
+date: 2023-06-27
 tags:
   - ai
 ---
