@@ -2,7 +2,6 @@ lockfileVersion: 5.4
 
 specifiers:
   '@fontsource/jetbrains-mono': ^4.5.12
-  '@fontsource/manrope': ^4.5.13
   '@sveltejs/adapter-vercel': ^2.2.0
   '@sveltejs/kit': ^1.5.0
   '@tailwindcss/forms': ^0.5.3
@@ -35,7 +34,6 @@ specifiers:
 
 dependencies:
   '@fontsource/jetbrains-mono': 4.5.12
-  '@fontsource/manrope': 4.5.13
   lucide-svelte: 0.162.0_svelte@3.59.1
   open-props: 1.5.8
   rehype-slug: 5.1.0
@@ -312,10 +310,6 @@ packages:
 
   /@fontsource/jetbrains-mono/4.5.12:
     resolution: {integrity: sha512-LJF1ala1/u+wXZmESFqIk08FA9yGX4/uAAleCHmXUMgEjvNAYFHUQQ7eK5hQQoBOwh99cU5suTrqYqEkgzwzPA==}
-    dev: false
-
-  /@fontsource/manrope/4.5.13:
-    resolution: {integrity: sha512-UFN5DMGBp8nFpwhPQXfpSbsEm4OVISqUKQy+rA+pb1zYGoH+OGN1woKEND8VLx+pC7rY3nrPRCJvSuuOaNdW7Q==}
     dev: false
 
   /@humanwhocodes/config-array/0.11.8:
