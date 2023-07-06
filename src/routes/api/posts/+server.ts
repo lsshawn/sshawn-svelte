@@ -41,8 +41,8 @@ async function getPosts(page = 1, limit = 10) {
 }
 
 export async function GET({ url }: RequestEvent) {
-	const page = parseInt(url.searchParams.get('page') ?? '1', 10);
-	const limit = parseInt(url.searchParams.get('limit') ?? '10', 10);
+	const page = parseInt(url?.searchParams.get('page') ?? '1', 10);
+	const limit = parseInt(url?.searchParams.get('limit') ?? '10', 10);
 	const posts = await getPosts(page, limit);
 	return json(posts);
 }
