@@ -1,9 +1,9 @@
 <script lang="ts">
-	import type { Post } from '$lib/types'
-	export let post: Post
+	import type { Post } from '$lib/types';
+	export let post: Post;
 </script>
 
-{#if post.meta.image}
+{#if post?.meta?.image}
 	<img
 		src={post.meta.image}
 		alt={post.meta.title}

@@ -1,18 +1,17 @@
 import { json, type RequestEvent } from '@sveltejs/kit';
 import type { Post } from '$lib/types';
-import { escapeSvelte } from 'mdsvex';
 
 async function getPosts(page = 1, limit = 10) {
 	const paths = import.meta.glob('/src/posts/*.md');
 
 	const startIndex = (page - 1) * limit;
+	console.log(
+		'LS -> src/routes/api/posts/+server.ts:8 -> startIndex: ',
+		startIndex,
+	);
 
 	const posts: Post[] = [];
 	for (const path in paths) {
-		if (posts.length >= limit) break;
-		console.log('LS -> src/routes/api/posts/+server.ts:32 -> path: ', path);
-
-		const file = paths[path];
 		const slug = path.split('/').at(-1)?.replace('.md', '');
 
 		const fileData = await import(path);
@@ -50,9 +49,7 @@ async function getPosts(page = 1, limit = 10) {
 }
 
 export async function GET({ url }: RequestEvent) {
-	console.log('get');
 	const page = parseInt(url.searchParams.get('page') ?? '1', 10);
-	console.log('LS -> src/routes/api/posts/+server.ts:54 -> page: ', page);
 	const limit = parseInt(url.searchParams.get('limit') ?? '10', 10);
 	const posts = await getPosts(page, limit);
 	return json(posts);

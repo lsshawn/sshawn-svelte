@@ -14,9 +14,10 @@
 	const seoProps = { title: 'Notes' };
 
 	async function loadMore() {
-		const res = await fetch(`api/posts?page=${page + 1}`);
+		page += 1;
+		const res = await fetch(`api/posts?page=${page}`);
 		const resData = await res.json();
-		posts = [...posts, resData.data];
+		posts = [...posts, ...resData.data];
 		remainingCount = resData.remainingCount;
 	}
 </script>
@@ -30,7 +31,7 @@
 					href={`/${post.slug}`}
 					class="no-underline"
 				>
-					<h1 class="text-3xl card-title mb-1">{post.meta.title}</h1>
+					<h1 class="text-3xl card-title mb-1">{post?.meta?.title}</h1>
 				</a>
 				<PostMeta {post} />
 				<PostFeaturedImage {post} />
@@ -60,13 +61,12 @@
 		</div>
 		<div class="divider" />
 	{/each}
-	<!-- <LoadMore -->
-	<!-- 	noMoreResults={remainingCount <= 0} -->
-	<!-- 	load={loadMore} -->
-	<!-- 	loadingMoreText="Loading more posts..." -->
-	<!-- 	noMoreResultText="No more posts to load" -->
-	<!-- /> -->
-	<button on:click={() => loadMore()}>load more</button>
+	<LoadMore
+		noMoreResults={remainingCount <= 0}
+		load={loadMore}
+		loadingMoreText="Loading more posts..."
+		noMoreResultText="No more posts to load"
+	/>
 </div>
 
 <style>
