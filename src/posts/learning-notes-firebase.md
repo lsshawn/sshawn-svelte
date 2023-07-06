@@ -82,7 +82,7 @@ const query = db.collection('posts')
   .where('name', '', 'jeff') // AND. Requires composite index. Only 1 range operator per query.
 ```
 
-There's no 'not equal' operator. So you need 2 queries: > and <.
+There's no 'not equal' operator. So you need 2 queries: `>` and `<`.
 
 `where(array, 'array-contains', value)` only accepts 1 value.
 

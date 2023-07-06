@@ -7,6 +7,13 @@ declare global {
 		// interface PageData {}
 		// interface Platform {}
 	}
+	type PaginatedResponse = {
+		data: any[];
+		page: number;
+		limit: number;
+		total: number;
+		remainingCount: number;
+	};
 }
 
-export {}
+export {};

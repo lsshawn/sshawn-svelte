@@ -206,8 +206,7 @@ A 'data container' or 'data structure' has public properties with no methods. We
 
 ## Polymorphism
 
-```polymorphism.ts
-
+```
 type Purchase = any
 
 let Logistics: any
@@ -239,7 +238,6 @@ class InsuredDelivery extends DeliveryImplementation implements Delivery {
 
 // Insert if/else logic to create the correct class
 const delivery = new InsuredDelivery({})
-
 ```
 
 ## Cohesion

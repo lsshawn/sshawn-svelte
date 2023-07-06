@@ -1,6 +1,8 @@
 ---
 title: 'Saying "Google it yourself" is rude'
 date: '2019-01-26'
+tags:
+  - communication
 ---
 
 It's the 21st century way of saying "Get lost."
@@ -16,4 +18,3 @@ Ask "How do you feel?"
 Help them to understand by going to first principle.
 
 At the very least, google together and laugh at the suggested search.
-

@@ -3,6 +3,7 @@ title: Card game core loop
 date: 2023-02-10
 tags:
   - game
+isPrivate: true
 ---
 
 Think about the core loop in the game

@@ -6,7 +6,7 @@ tags:
   - tax
 ---
 
-# Questions to ponder
+## Questions to ponder
 
 How to setup trust in Malaysia?
 
@@ -16,11 +16,11 @@ Does paying dividend reduces the amount of corporate tax payable in Malaysia?
 
 I seen a lot of holding company is setup in Labuan or other BVI countries. Why? Is it because there's no corporate tax? And if I hold on to a holding company in Malaysia, I need to pay corporate tax every year?
 
-# Here's the biggest advantage of a PHC:
+## Here's the biggest advantage of a PHC:
 
 Profits from any of the businesses can be distributed to the HoldCo as a dividend, which are usually tax-free. You can then re-invest this cash into any of the other businesses within the PHC, or to even start or buy another a new company.
 
-# Structuring Your Personal Holding Company (PHC)
+## Structuring Your Personal Holding Company (PHC)
 
 1. Trust — Entrepreneur is the trustee that owns nothing but controls everything below. Trust allows for estate planning, liability protection and income/capital gains splitting. Not required but recommended.
 

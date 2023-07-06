@@ -19,7 +19,7 @@ const config = {
 		themes: [
 			{
 				light: {
-					...require('daisyui/src/colors/themes')['[data-theme=light]'],
+					...require('daisyui/src/theming/themes')['[data-theme=light]'],
 					primary: '#f9a825',
 					success: '#428c5f',
 					error: '#e32d2d',

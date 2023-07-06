@@ -8,7 +8,7 @@ tags:
 isPrivate: true
 ---
 
-# {Trip Title}
+# Trip Title
 
 # Requirements
 
@@ -29,8 +29,8 @@ Estimated cost per person: RM
 
 Total Cost: RM
 Carrier:
-To time: {Depart} - {Land}
-Return time: {Depart} - {Land}
+To time: Depart - Land
+Return time: Depart - Land
 
 > Note to VA: if no date is given by me, list the 3 flight prices. You may use Skyscanner or Google Flights.
 
@@ -48,7 +48,7 @@ Booking link:
 
 ## Day 1
 
-### {Activity 1}
+### Activity 1
 
 Hours needed (estimate):
 Cost (per person): RM
@@ -56,9 +56,9 @@ Booking link (optional):
 
 > Note to VA: Feel free to add link/screenshot of any interesting things you found
 
-### {Activity 2}
+### Activity 2
 
-{Use the same template above}
+Use the same template above
 
 ## Day 2
 

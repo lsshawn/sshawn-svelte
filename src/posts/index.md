@@ -1,3 +1,9 @@
+---
+title: 'Zet Index'
+date: '1988-12-23'
+isPrivate: true
+---
+
 # Projects
 
 # Unbilled hours
