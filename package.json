@@ -38,6 +38,7 @@
 	},
 	"dependencies": {
 		"@fontsource/jetbrains-mono": "^4.5.12",
+		"flexsearch": "^0.7.31",
 		"lucide-svelte": "^0.162.0",
 		"open-props": "^1.5.10",
 		"rehype-slug": "^5.1.0",

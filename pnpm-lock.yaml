@@ -13,6 +13,7 @@ specifiers:
   eslint: ^8.44.0
   eslint-config-prettier: ^8.8.0
   eslint-plugin-svelte3: ^4.0.0
+  flexsearch: ^0.7.31
   lucide-svelte: ^0.162.0
   mdsvex: ^0.10.6
   open-props: ^1.5.10
@@ -35,6 +36,7 @@ specifiers:
 
 dependencies:
   '@fontsource/jetbrains-mono': 4.5.12
+  flexsearch: 0.7.31
   lucide-svelte: 0.162.0_svelte@3.59.2
   open-props: 1.5.10
   rehype-slug: 5.1.0
@@ -1309,6 +1311,10 @@ packages:
   /flatted/3.2.7:
     resolution: {integrity: sha512-5nqDSxl8nn5BSNxyR3n4I6eDmbolI6WT+QqR547RwxQapgjQBmtktdP+HTBb/a/zLsbzERTONyUB5pefh5TtjQ==}
     dev: true
+
+  /flexsearch/0.7.31:
+    resolution: {integrity: sha512-XGozTsMPYkm+6b5QL3Z9wQcJjNYxp0CYn3U1gO7dwD6PAqU1SVWZxI9CCg3z+ml3YfqdPnrBehaBrnH2AGKbNA==}
+    dev: false
 
   /fraction.js/4.2.0:
     resolution: {integrity: sha512-MhLuK+2gUcnZe8ZHlaaINnQLl0xRIGRfcGk2yl8xoQAfHrSsL3rYu6FCmBdkdbhc9EPlwyGHewaRsvwRMJtAlA==}
