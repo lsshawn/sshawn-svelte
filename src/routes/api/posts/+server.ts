@@ -6,16 +6,19 @@ async function getPosts(page = 1, limit = 10) {
 	const paths = import.meta.glob('/src/posts/*.md');
 
 	const startIndex = (page - 1) * limit;
-	console.log(
-		'LS -> src/routes/api/posts/+server.ts:8 -> startIndex: ',
-		startIndex,
-	);
 
 	const posts: Post[] = [];
 	for (const path in paths) {
+		console.log('LS -> src/routes/api/posts/+server.ts:29 -> path: ', path);
 		const slug = path.split('/').at(-1)?.replace('.md', '');
 
-		const fileData = await import(path);
+		const filePath = new URL(path, import.meta.url).pathname; // Get the full file path
+		console.log(
+			'LS -> src/routes/api/posts/+server.ts:15 -> filePath: ',
+			filePath,
+		);
+
+		const fileData = await import(filePath);
 		const metadata = fileData.metadata;
 
 		if (metadata && slug) {
