@@ -1,4 +1,5 @@
 import { json, type RequestEvent } from '@sveltejs/kit';
+import { browser } from '$app/environment';
 import type { Post } from '$lib/types';
 
 async function getPosts(page = 1, limit = 10) {
@@ -49,8 +50,10 @@ async function getPosts(page = 1, limit = 10) {
 }
 
 export async function GET({ url }: RequestEvent) {
-	const page = parseInt(url.searchParams.get('page') ?? '1', 10);
-	const limit = parseInt(url.searchParams.get('limit') ?? '10', 10);
+	const page = browser ? parseInt(url.searchParams.get('page') ?? '1', 10) : 1;
+	const limit = browser
+		? parseInt(url.searchParams.get('limit') ?? '10', 10)
+		: 10;
 	const posts = await getPosts(page, limit);
 	return json(posts);
 }
