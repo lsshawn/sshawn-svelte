@@ -8,6 +8,7 @@ tags:
   - lead
 image: https://images-na.ssl-images-amazon.com/images/I/51xrHMLGJPL._SX330_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/B002Q6XUE4?tag=sshawn0c-20
+published: true
 ---
 
 There was a period in your childhood when you questioned everything.

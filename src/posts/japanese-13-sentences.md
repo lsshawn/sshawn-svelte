@@ -4,6 +4,7 @@ date: 2022-11-20
 tags:
   - japanese
   - language
+published: true
 ---
 
 # 13 golden sentences

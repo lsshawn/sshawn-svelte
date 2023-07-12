@@ -9,6 +9,7 @@ tags:
 author: 'Seth Godin'
 image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529247040i/40549476._UY500_SS500_.jpg
 bookURL: https://www.amazon.com/dp/0525540830?tag=sshawn0c-20
+published: true
 ---
 
 If you've read a lot of Seth Godin's work, this book won't be eye-opening. This book feels like a summary of Purple Cow, The Dip, and Tribes.

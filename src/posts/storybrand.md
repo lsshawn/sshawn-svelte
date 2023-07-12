@@ -7,6 +7,7 @@ tags:
   - book summary
 image: https://images-na.ssl-images-amazon.com/images/I/41gwu0NcCrL._SX326_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/0718033329?tag=sshawn0c-20
+published: true
 ---
 
 People need clarity.

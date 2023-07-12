@@ -3,7 +3,6 @@ title: Svelte one liner css page transition
 date: 2023-04-13
 tags:
   - svelte
-unlisted: true
 ---
 
 ## Reference

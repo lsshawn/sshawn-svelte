@@ -3,6 +3,7 @@ title: 'AI killing artist?'
 date: 2023-06-27
 tags:
   - ai
+published: true
 ---
 
 When artist used paintbrushes, they probably had similar reactions to what we're experiencing now.

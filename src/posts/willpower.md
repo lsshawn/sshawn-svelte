@@ -8,6 +8,7 @@ tags:
 author: 'Roy F. Baumeister'
 image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347857263l/11104933.jpg
 bookURL: https://www.amazon.com/dp/0143122231?tag=sshawn0c-20
+published: true
 ---
 
 The highest possible stage in moral culture is when we recognize that we ought to control our thoughts.

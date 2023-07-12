@@ -8,6 +8,7 @@ tags:
   - parenting
 image: https://images-na.ssl-images-amazon.com/images/I/51BOFxJx4JL._SX324_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/0143122967?tag=sshawn0c-20
+published: true
 ---
 
 French kids can sit patiently and wait for the food.

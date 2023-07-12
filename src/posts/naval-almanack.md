@@ -9,6 +9,7 @@ tags:
 author: 'Eric Jorgenson'
 image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598011736l/54898389._SY475_.jpg
 bookURL: https://www.navalmanack.com/
+published: true
 ---
 
 ## On Love

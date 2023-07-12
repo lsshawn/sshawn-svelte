@@ -9,33 +9,34 @@ author: 'Derek Sivers'
 image: https://sive.rs/images/DerekSivers-cover-HowToLive-400x640.jpg
 summary: This is my bible.
 bookURL: https://sive.rs/h
+published: true
 ---
 
 <!-- vim-markdown-toc GFM -->
 
-- [Be independent](#be-independent)
-- [Commit](#commit)
-- [Fill your senses](#fill-your-senses)
-- [Do nothing](#do-nothing)
-- [Think super-long-term](#think-super-long-term)
-- [Intertwine with the world](#intertwine-with-the-world)
-- [Let randomness rule](#let-randomness-rule)
-- [Pursue pain](#pursue-pain)
-- [Do whatever you want now](#do-whatever-you-want-now)
-- [Chase the future](#chase-the-future)
-- [Value only what has endured](#value-only-what-has-endured)
-- [Learn](#learn)
-- [Laugh at life](#laugh-at-life)
-- [Prepare for the worst](#prepare-for-the-worst)
-- [Live for others](#live-for-others)
-- [Get rich](#get-rich)
-- [Reinvent yourself regularly](#reinvent-yourself-regularly)
-- [Love](#love)
-- [Create](#create)
-- [Don’t die](#dont-die)
-- [Make a million mistakes](#make-a-million-mistakes)
-- [Make change.](#make-change)
-- [Balance everything](#balance-everything)
+* [Be independent](#be-independent)
+* [Commit](#commit)
+* [Fill your senses](#fill-your-senses)
+* [Do nothing](#do-nothing)
+* [Think super-long-term](#think-super-long-term)
+* [Intertwine with the world](#intertwine-with-the-world)
+* [Let randomness rule](#let-randomness-rule)
+* [Pursue pain](#pursue-pain)
+* [Do whatever you want now](#do-whatever-you-want-now)
+* [Chase the future](#chase-the-future)
+* [Value only what has endured](#value-only-what-has-endured)
+* [Learn](#learn)
+* [Laugh at life](#laugh-at-life)
+* [Prepare for the worst](#prepare-for-the-worst)
+* [Live for others](#live-for-others)
+* [Get rich](#get-rich)
+* [Reinvent yourself regularly](#reinvent-yourself-regularly)
+* [Love](#love)
+* [Create](#create)
+* [Don’t die](#dont-die)
+* [Make a million mistakes](#make-a-million-mistakes)
+* [Make change.](#make-change)
+* [Balance everything](#balance-everything)
 
 <!-- vim-markdown-toc -->
 

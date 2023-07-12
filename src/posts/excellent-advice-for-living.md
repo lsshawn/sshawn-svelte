@@ -6,6 +6,7 @@ tags:
   - book summary
   - life
 rating: 8
+published: true
 ---
 
 Learn from those you disagree with or even offend you.

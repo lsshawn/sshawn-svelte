@@ -3,7 +3,6 @@ title: Sample post
 date: 2023-04-16
 tags:
   - svelte
-unlisted: true
 ---
 
 <script>
@@ -22,6 +21,6 @@ Media inside the **static** folder is served from `/`.
 
 ```ts
 function greet(name: string) {
-	console.log(`Hey ${name}! 👋`);
+	console.log(`Hey ${name}! 👋`)
 }
 ```

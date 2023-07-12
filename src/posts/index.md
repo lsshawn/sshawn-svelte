@@ -10,36 +10,18 @@ isPrivate: true
 
 ## Eurekaa
 
-- June
-- 10 Stripe GA debugging
-- 600 Udacity new scrape script
-- 30: Make email subject unique with date in contact form
-- 10: Fix bug on doc view paragraph breaks
-- 10: [Course Research] Fix zero student overflow
-- 10: [Platform Research] Add placeholder text
-- 30: Fix line breaks in doc view when stop generate
-- 50: debugging loading message hangs
-- [300](2023-06-19_300.md): migrate and test 3.5 turbo
-- 370: AI gap analysis
-- 50: Update Opportunity Score to use Gtrend direction
-- 20: Add Twitter pixel
-- 70: customer support
-- 200: ltd stripe automation
-- 800 Domestika new scrape script
-
-- 25: [LarryWeeks.com] Pin podcasts to the top
-- 25: Update review page
-- 10: Add tooltip at tags
-- 10: Edit book search tooltip
-- 120: Add "what else" prompt in Expound
-- 370: Pop-up for LAi in content planner. Optimized speed. Add error message if chatgpt is busy. Reposition pop-up.
-  -50: fix how it works ui and card
-- 10: fix login bug
--
+- 10: add reviews
+- 20: fix Google Core Web Vitals & How It Works on mobile
+- 20: Update font size in content planner
+- 20: [Content Planner] Fix Key Ideas Ai output being off position if the content above changes.
+- 70: animate number
 
 ## Impactora
 
 - 2k: impact index with logging
+- 2500: upfront for iOS hybrid app
+- 100: make login more user-friendly by detecting if user has logged in before
+- 500: what's new page with Airtable as backend.
 
 # Projects
 

@@ -5,7 +5,7 @@ import type { Post } from '$lib/types';
 async function getPosts(url) {
 	const page = parseInt(url?.searchParams.get('page') ?? '1', 10);
 	const limit = parseInt(url?.searchParams.get('limit') ?? '10', 10);
-	console.log('LS -> src/routes/api/posts/+server.ts:5 -> page: ', page);
+	// console.log('LS -> src/routes/api/posts/+server.ts:5 -> page: ', page);
 	const paths = import.meta.glob('/src/posts/*.md', { eager: true });
 
 	const startIndex = (page - 1) * limit;

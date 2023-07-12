@@ -1,7 +1,6 @@
 ---
 title: Accelerated depreciation
 date: 2023-03-11
-unlisted: true
 tags:
   - property
 ---

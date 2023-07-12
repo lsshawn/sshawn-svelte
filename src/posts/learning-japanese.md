@@ -4,6 +4,7 @@ date: 2019-10-22
 tags:
   - language
 image: 'https://res.cloudinary.com/cupbots/image/upload/w_600,f_auto/v1656946472/koi-fish.jpg'
+published: true
 ---
 
 ...is to install a Japanese keyboard in your phone or laptop.

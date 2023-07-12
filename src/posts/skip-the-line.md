@@ -9,6 +9,7 @@ tags:
 author: 'James Altucher'
 image: https://images-na.ssl-images-amazon.com/images/I/41JRKIKqumL._SX331_BO1,204,203,200_.jpg
 bookURL: https://www.amazon.com/dp/0062998927?tag=sshawn0c-20
+published: true
 ---
 
 The key to skipping the line is to constantly live in the world of “not knowing. To constantly be curious but not threatened by what’s next.
