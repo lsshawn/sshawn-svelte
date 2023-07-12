@@ -9,6 +9,7 @@ tags:
 author: 'Jim Edwards'
 image: https://images-na.ssl-images-amazon.com/images/I/61MWwajeM1L.jpg
 bookURL: https://www.amazon.com/dp/B082L4R78V?tag=sshawn0c-20
+published: true
 ---
 
 # Secret #1 What Is Copywriting?
