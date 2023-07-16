@@ -24,23 +24,8 @@ The reward is I get to open the heart of other people.
 
 # I'm a Quant
 
-Did my Master degree in Financial Engineering and worked 3 years as a quantitative researcher.
+Holds a Master degree in Financial Engineering. Had 8 years in commodities trading and quantitative risk management.
 
-I specialized in:
-
-- analyzing portfolio risk
-- evaluating investments
-- programming portfolio monitoring tools
-- code and backtest trading strategies.
-
-Why did I left my finance job to work on tech? Because it's hard to beat HODL.
-
-Now with Web3 and DeFi, I can leverage my quant and coding skills to contribute to decentralization.
-
-# I'm a Minimalist
-
-I follow [r/BuyItForLife](https://www.reddit.com/r/BuyItForLife/), [r/OneBag](https://www.reddit.com/r/onebag/), and [r/Vim](https://www.reddit.com/r/vim/).
-
-Minimalism rewires my brain to always think "What I don't need". I guess that's why I'm good at coding MVP.
+---
 
 Check out my [now page](/now) to see what I'm working on.

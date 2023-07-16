@@ -1,5 +1,5 @@
 ---
-title: 'Zet Index'
+title: 'Note Index'
 date: '1988-12-23'
 isPrivate: true
 ---
@@ -15,13 +15,6 @@ isPrivate: true
 - 20: Update font size in content planner
 - 20: [Content Planner] Fix Key Ideas Ai output being off position if the content above changes.
 - 70: animate number
-
-## Impactora
-
-- 2k: impact index with logging
-- 2500: upfront for iOS hybrid app
-- 100: make login more user-friendly by detecting if user has logged in before
-- 500: what's new page with Airtable as backend.
 
 # Projects
 

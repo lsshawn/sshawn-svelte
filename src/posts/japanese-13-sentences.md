@@ -7,7 +7,7 @@ tags:
 published: true
 ---
 
-# 13 golden sentences
+## 13 golden sentences
 
 1. The apple is red
    사과는 빨간다
@@ -104,7 +104,7 @@ _Īye, chigaimasu_ (su is pronounced s)
     リンゴ は 赤 ですか？
     _Ringo wa aka desuka_
 
-# questions
+## questions
 
 Is this an apple?
 Is this apple red?
@@ -116,7 +116,7 @@ What is an apple?
 Who bought the apple?
 When are you going?
 
-# 4 useful words for traveling
+## 4 useful words for traveling
 
 Eat
 Go
@@ -128,7 +128,7 @@ Can't
 Will
 Past tense
 
-# 4 starter sentences
+## 4 starter sentences
 
 I must eat
 食べる　必要 が ある

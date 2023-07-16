@@ -11,13 +11,16 @@ bookURL: https://www.amazon.com/dp/0321441699?tag=sshawn0c-20
 published: true
 ---
 
-It's only 176 pages and I think it's a required read for all office workers. This is about cutting the fats and writing your idea clearly.
+It's only 176 pages and I think it's a required read for all office workers. This is about cutting the fats and writing your idea clearly. Be comfortable writing short, direct sentences.
 
-# Highlights
+<!-- vim-markdown-toc GFM -->
 
-> Nobody feels comfortable writing simply "Boy meets Girl."
->
-> Our education system required us to write "A romantic relationship is ongoing between Boy and Girl."
+* [The Paramedic Method](#the-paramedic-method)
+* [Where's the action? Who's kicking who?](#wheres-the-action-whos-kicking-who)
+* [Slow-mo Openings](#slow-mo-openings)
+* [Examples](#examples)
+
+<!-- vim-markdown-toc -->
 
 ## The Paramedic Method
 

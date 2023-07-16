@@ -12,17 +12,17 @@ bookURL: https://www.amazon.com/dp/B082L4R78V?tag=sshawn0c-20
 published: true
 ---
 
-# Secret #1 What Is Copywriting?
+## Secret #1 What Is Copywriting?
 
 People buy when they feel like something will make them feel better or help them get what they want. Because it uses familiar, comfortable words. Again, sales copy is like a conversation with a friend or a trusted advisor.
 
 People love to buy. Sales copy helps them buy from you!
 
-# Secret #2 One Man’s Journey With Sales Copy
+## Secret #2 One Man’s Journey With Sales Copy
 
 Read the classics like Scientific Advertising.
 
-# Secret #3 Without A Strong Why, People Don’t Buy
+## Secret #3 Without A Strong Why, People Don’t Buy
 
 Ten reasons people buy.
 
@@ -51,11 +51,11 @@ The key here is to tie multiple reasons to why people buy, not just one.
 10. What are three ways my product or service is going to help them be the envy of their friends and feel more loved by their family?
 11. How will buying my product make them feel more popular and increase their social status?
 
-# Secret #4 Nobody Cares About You In Your Sales Copy
+## Secret #4 Nobody Cares About You In Your Sales Copy
 
 Just go back through your copy, look for any time you’ve used the words “I, me, my, we, ours,” and change the perspective. Change the verbiage.
 
-# Secret #5 The Most Valuable Skill You’ll Ever Learn
+## Secret #5 The Most Valuable Skill You’ll Ever Learn
 
 Every product has a unique personality and it is your job to find it.
 
@@ -65,7 +65,7 @@ First Step: Become great at creating headlines.
 
 Second Step: Become good at writing bullets.
 
-# Secret #6 The #1 Single Most Important Piece of Sales Copy Ever!
+## Secret #6 The #1 Single Most Important Piece of Sales Copy Ever!
 
 The secret of a great headline is one that connects emotionally with the person who represents your perfect prospect.
 
@@ -86,7 +86,7 @@ Here are some headline templates you can use immediately.
 - Here’s The Perfect Solution If You Want **\_\_\_\_** (even if 46 **\_\_\_\_**)
 - My Proven **\_\_\_\_** Method To **\_\_\_\_**
 
-# Secret #7 It’s NEVER “One Size Fits All”
+## Secret #7 It’s NEVER “One Size Fits All”
 
 If your prospect is aware of your product and has realized that it can satisfy this desire, your headline starts with the product.
 
@@ -100,7 +100,7 @@ The fastest way to figure this out is to think through the conversations you cou
 
 Don't be lazy and fall into the trap of one-size-fits-all with your sales messages.
 
-# Secret #8 Meet F.R.E.D. (Your Ideal Customer)
+## Secret #8 Meet F.R.E.D. (Your Ideal Customer)
 
 I prefer the term “niche” instead of target audience because niche refers to a specific group.
 
@@ -136,7 +136,7 @@ Examples:
 - Here’s an example of what works to find great deals.
 - Here’s your house flipping checklist.
 
-# Secret #9 The Ultimate Bullet Formula
+## Secret #9 The Ultimate Bullet Formula
 
 You do not write copy, you assemble it.
 
@@ -156,7 +156,7 @@ What we need to drill down to is the meaning of each benefit.
 
 Benefit = what it does Meaning = what it means to the buyer / reader / prospect Formula: It **\_\_\_\_** so you can **\_\_\_** which means **\_\_\_**.
 
-# Secret #10 What REALLY Sells People (It’s NOT What You Think)
+## Secret #10 What REALLY Sells People (It’s NOT What You Think)
 
 **Meaning** is the next level of connecting with people on a gut level.
 
@@ -168,11 +168,11 @@ As soon as you make a statement about what something is or what it does, you use
 
 Love for **\_** (family, self, country, community, etc.) Hate Fear of **\_** (failure, making mistakes, death, loss, etc.) Vanity Pride Longing for **\_** (fulfillment, peace, completion, etc.) 80 Greed Freedom
 
-# Secret #11 Why Good Enough Makes You (and keeps you) Poor!
+## Secret #11 Why Good Enough Makes You (and keeps you) Poor!
 
 You never test more than one variable at a time.
 
-# Secret #12 Don’t Reinvent The Wheel—Great Copy Leaves Clues
+## Secret #12 Don’t Reinvent The Wheel—Great Copy Leaves Clues
 
 Amazon is my number one source for research.
 
@@ -184,13 +184,13 @@ If you don’t use the words they use, if you don’t resonate with them, they w
 
 Writing copy is a game of momentum. You need to get your copywriting engine warmed up before you write. Kickstart that process by reading other people’s text and the feedback from customers on the related things they buy.
 
-# Secret #15 3 Sales Formulas That Never Fail
+## Secret #15 3 Sales Formulas That Never Fail
 
 1. Formula #1: Problem/Agitate/Solve.
 2. Formula #2: If you want 3X benefit, then do this.
 3. Formula #3: The Before/After/Bridge.
 
-# Secret #16 It’s All Ice Cream, But What Flavor Should I Choose?
+## Secret #16 It’s All Ice Cream, But What Flavor Should I Choose?
 
 Any time I go into the marketplace, a video sales letter is the fastest way for me to do this.
 
@@ -210,15 +210,15 @@ That’s the pattern I use for anything under a couple of hundred bucks.
 
 You use the long copy to sell a higher priced item and if people need more information to make a purchase decision.
 
-# Secret #17 How To Write An Amazing Sales Letter—FAST
+## Secret #17 How To Write An Amazing Sales Letter—FAST
 
 Your headline in a video sales letter or a spoken script are those first couple of sentences. So the first part grabbed their attention, then you identified yourself, and finally you let them know what to expect.
 
-### Define the Problem
+#### Define the Problem
 
 Here’s the problem you face \***\*\_\_\_\*\***.
 
-### Agitate
+#### Agitate
 
 “They don’t buy if it don’t hurt!” Jim Edwards This step is where you pour on the pain. You make it worse by using
 
@@ -226,33 +226,33 @@ Here’s the problem you face \***\*\_\_\_\*\***.
 
 Which means you’ll never share your message with the world and when you die, your message dies with you.
 
-### Present The Solution
+#### Present The Solution
 
 “Luckily for you, there’s now a solution. Let me introduce you to **\_**.”
 
-### Use Bullets To Arouse Curiosity
+#### Use Bullets To Arouse Curiosity
 
-### Credibility Statement About You
+#### Credibility Statement About You
 
-### Proof
+#### Proof
 
 “But don’t just take my word for it. Take a look at this.”
 
-### Sum Up The Offer And Give Price
+#### Sum Up The Offer And Give Price
 
 Whatever it is, tell them exactly what they’re going to get, when they’re going to get it, how they’re going to get it, and how much it costs. Let’s
 
 You want people to feel like they’re getting a great deal, and this is the place to do it.
 
-### Bonuses And Pot Sweeteners
+#### Bonuses And Pot Sweeteners
 
 “Jim, if you really want to make your offer amazing, take your competitor’s USP (unique selling proposition) and turn it into a free bonus with your offer.”
 
-### Guarantee
+#### Guarantee
 
-### Call Them To Action
+#### Call Them To Action
 
-### Postscript (P.S.)
+#### Postscript (P.S.)
 
 Restate the benefits and tell them again to act now.
 
@@ -267,13 +267,13 @@ A great email teaser breaks down like this:
 - Salutation
 - Shocking statement (Did you know that...)
 
-# Secret #19 The Hardest Draft You’ll Ever Write
+## Secret #19 The Hardest Draft You’ll Ever Write
 
 There is a secret every professional artist knows that the amateurs don’t: being original is overrated. The most creative minds in the world are not especially creative; they’re just better at rearrangement.
 
 Think and write in chunks.
 
-# Secret #20 Make ‘Em More Thirsty
+## Secret #20 Make ‘Em More Thirsty
 
 Five types of stories:
 
@@ -297,11 +297,11 @@ Ways you can sell when creating content
 3. Teach all the steps leading to what you want them to purchase.
 4. Make them thirsty by teaching them the manual way of doing something. Then sell them the tools.
 
-# Secret #21 Love Me; Hate Me. There’s No Money In The Middle
+## Secret #21 Love Me; Hate Me. There’s No Money In The Middle
 
 The fastest way to establish that persona is to take a stand, to have a position or an opinion, and you need to be secure about it.
 
-# Secret #22 “Oh Damn—I Got To Have That!”
+## Secret #22 “Oh Damn—I Got To Have That!”
 
 Headline is your most important component. The promise of any product or service, often contained in that headline, is the key to selling.
 
@@ -326,7 +326,7 @@ Eliminator: let them off the hook, as in “it’s not their fault”. Remember 
 
 Now, in what niche groups of people does this formula work? It works with everyone who needs a problem solved or has an intense desire.
 
-# Secret #23 Put Lipstick On The Pig
+## Secret #23 Put Lipstick On The Pig
 
 Is your headline about you or your audience?
 
@@ -344,7 +344,7 @@ Nine times out of ten, from my experience, people buy out of dissatisfaction wit
 
 Each major point or idea in your sales copy should have an accompanying graphic.
 
-# Secret #24 Should I Join The Dark Side?
+## Secret #24 Should I Join The Dark Side?
 
 Use the negative going on inside of their head to get in sync with them.
 
@@ -356,7 +356,7 @@ So once they know you’re paying attention to them because you acknowledged the
 
 Never go negative by attacking someone or a company by name.
 
-# Secret #25 “Stealth” Closes—The Secret To Selling Without Selling
+## Secret #25 “Stealth” Closes—The Secret To Selling Without Selling
 
 Often, you start a Stealth Close with these three words: “By the way.”
 
@@ -370,7 +370,7 @@ Hook them in with the promise (and delivery) of value. Give them tips.
 
 By the way, did you know that you can **\_** with **\_**? Yep, it’s true. Go here for more information.
 
-# Secret #27 The Magic Desk
+## Secret #27 The Magic Desk
 
 Become a student of markets not products
 
@@ -382,7 +382,7 @@ Write down specific questions to ask yourself ahead of time.
 
 “My intention for conducting this session is to get in touch with my prospect’s major problems and fears when it comes to writing their book.”
 
-# Secret #28 The One And Only Purpose of An Online Ad
+## Secret #28 The One And Only Purpose of An Online Ad
 
 Anything else, such as branding or the other BS people spout, is entirely untrue. The only purpose of an online ad is to get the right people to stop and click.
 
@@ -400,7 +400,7 @@ From my experience, it can take ten to fifty ad tests to find one that works wel
 
 Change your copywriting mindset to one where you want to “fail fast” with the losers and don’t give up until you find the winners.
 
-# Secret #29 You Can’t Catch Fish Without A Hook
+## Secret #29 You Can’t Catch Fish Without A Hook
 
 “One-legged golfer outdrives Tiger Woods.” The USP could be, “Our three-minute video fixes 90 percent of long drive problems.”
 
@@ -413,15 +413,15 @@ Some formulas:
 - Unlikely character plus timing plus results. “Former janitor goes from bankrupt to paid-off house in eighteen months with profits from his e-book business.”
 - Result plus timing minus pain. “Lose all the weight you want in the next thirty days without diet or
 
-# Secret #30 Create Your Own Swipe File
+## Secret #30 Create Your Own Swipe File
 
 “The Grand Theft Auto Vice City secrets you’re not supposed to know.”
 
-# Secret #31 Polish Your Sales Copy
+## Secret #31 Polish Your Sales Copy
 
 Rev.com transcribes your video.
 
-# Everything Else You Need To Know About Sales Copywriting
+## Everything Else You Need To Know About Sales Copywriting
 
 1. What makes the copy so good they can’t refuse to buy?
 

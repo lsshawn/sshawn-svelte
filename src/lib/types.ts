@@ -11,6 +11,7 @@ export type Meta = {
 	categories?: Categories[];
 	isPrivate?: boolean; // completely unviewable in web
 	unlisted?: boolean; // hidden from listing. Viewable directly.
+	published?: boolean;
 	author?: string;
 	rating?: number;
 	bookUrl?: string;

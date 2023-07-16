@@ -22,7 +22,7 @@ async function getPosts(url) {
 				slug,
 				content: file['default'].render()['html'],
 			} satisfies Post;
-			if (!post.meta.unlisted && !post.meta.isPrivate) posts.push(post);
+			if (post.meta.published) posts.push(post);
 		}
 	}
 
