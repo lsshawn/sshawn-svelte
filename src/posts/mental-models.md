@@ -1,5 +1,0 @@
-# mental-models
-
-
-
-
